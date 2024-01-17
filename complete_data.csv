@@ -108,1006 +108,200 @@ Date,Opponent,Match Type,Server,In,Ace,Error (net or wide),Error (long),Any Erro
 1/6/2024,Saint Francis,Scrimmage,Octavian,1,0,0,0,0,40,1,1,6,1,2,1,0.65,0.35,2
 1/6/2024,Saint Francis,Scrimmage,Octavian,1,0,0,0,0,43,2,1,6,0,1,0,0.45,0.3,3
 1/6/2024,Saint Francis,Scrimmage,Gavin,1,0,0,0,0,42,1,1,5,0,1,1,0.45,0.3,3
-1/15/2023,Mount,Scrimmage,Jacob,1,0,0,0,0,40,,,,1,2,1,0.65,0.35,2
-1/15/2023,Mount,Scrimmage,Jacob,1,1,0,0,0,42,,,,1,4,1,0,1,0
-1/15/2023,Mount,Scrimmage,Jacob,1,0,0,0,0,38,,,,1,2,0,0.65,0.35,2
-1/15/2023,Mount,Scrimmage,Jacob,0,0,0,1,1,45,,,,FALSE,0,0,1,0,FALSE
-1/15/2023,Mount,Scrimmage,Jacob,0,0,1,0,1,42,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-1/15/2023,Mount,Scrimmage,Jacob,1,1,0,0,0,43,,,,1,4,1,0,1,0
-1/15/2023,Mount,Scrimmage,Jacob,1,0,0,0,0,42,,,,0,2,1,0.65,0.35,2
-1/15/2023,Mount,Scrimmage,Jacob,1,0,0,0,0,42,,,,1,2,0,0.65,0.35,2
-1/15/2023,Mount,Scrimmage,Jacob,1,0,0,0,0,42,,,,1,1,1,0.45,0.3,3
-1/15/2023,Mount,Scrimmage,Jacob,1,0,0,0,0,41,,,,1,2,0,0.65,0.35,2
-1/15/2023,Mount,Scrimmage,Jacob,1,0,0,0,0,40,,,,0,1,0,0.45,0.3,3
-1/15/2023,Mount,Scrimmage,Jacob,1,0,0,0,0,47,,,,1,1,0,0.45,0.3,3
-2/3/2023,Geneva,Match,Jacob,0,0,1,0,1,48,1,1,NA,NA,0,0,1,0,FALSE
-2/17/2023,PSUA,Match,Jacob,1,0,0,0,0,45,1,1,1,1,1,0,0.45,0.3,3
-2/17/2023,PSUA,Match,Jacob,1,0,0,0,0,45,1,1,6,0,2,0,0.65,0.35,2
-2/17/2023,PSUA,Match,Jacob,1,0,0,0,0,44,1,6,5,1,1,1,0.45,0.3,3
-2/17/2023,PSUA,Match,Jacob,1,0,0,0,0,48,2,6,6,1,1,0,0.45,0.3,3
-10/27/2022,Juniata,Practice,Jared,1,0,0,0,0,33,,,,0,1,1,0.7,0.3,3
-10/27/2022,Juniata,Practice,Jared,1,0,0,0,0,38,,,,1,2,1,0.55,0.45,2
-10/27/2022,Juniata,Practice,Jared,1,0,0,0,0,42,,,,0,1,0,0.7,0.3,3
-10/27/2022,Juniata,Practice,Jared,0,0,1,0,1,36,,,,FALSE,0,1,FALSE,0,FALSE
-10/27/2022,Juniata,Practice,Jared,1,0,0,0,0,34,,,,1,1,0,0.7,0.3,3
-10/27/2022,Juniata,Practice,Jared,0,0,0,1,1,35,,,,FALSE,0,0,FALSE,0,FALSE
-10/27/2022,Juniata,Practice,Jared,1,0,0,0,0,36,,,,1,2,0,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Jared,0,0,0,1,1,35,,,,FALSE,0,0,FALSE,0,FALSE
-10/28/2022,Blue/Gold,Scrimmage,Jared,0,0,0,1,1,36,,,,FALSE,0,0,FALSE,0,FALSE
-10/28/2022,Blue/Gold,Scrimmage,Jared,1,0,0,0,0,31,,,,0,1,0,0.7,0.3,3
-10/28/2022,Blue/Gold,Scrimmage,Jared,1,0,0,0,0,42,,,,0,2,1,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Jared,0,0,0,1,1,38,,,,FALSE,0,0,FALSE,0,FALSE
-10/28/2022,Blue/Gold,Scrimmage,Jared,1,0,0,0,0,34,,,,0,2,0,0.55,0.45,2
-1/15/2023,Mount,Scrimmage,Jared,1,0,0,0,0,34,,,,0,3,0,0.7,0.55,1
-1/15/2023,Mount,Scrimmage,Jared,1,0,0,0,0,37,,,,1,2,1,0.65,0.35,2
-1/15/2023,Mount,Scrimmage,Jared,1,0,0,0,0,32,,,,0,3,1,0.7,0.55,1
-1/15/2023,Mount,Scrimmage,Jared,0,0,1,0,1,35,,,,FALSE,4,1,0,1,0
-1/15/2023,Mount,Scrimmage,Jared,1,0,0,0,0,34,,,,1,2,1,0.65,0.35,2
-1/15/2023,Mount,Scrimmage,Jared,1,0,0,0,0,31,,,,1,2,1,0.65,0.35,2
-1/15/2023,Mount,Scrimmage,Jared,1,0,0,0,0,38,,,,1,1,0,0.45,0.3,3
-1/15/2023,Mount,Scrimmage,Jared,0,0,1,0,1,32,,,,FALSE,4,1,0,1,0
-1/15/2023,Mount,Scrimmage,Jared,1,0,0,0,0,32,,,,0,1,1,0.45,0.3,3
-4/8/2023,Drew,Match,Jared J,0,0,1,0,1,40,1,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Jared,1,0,0,0,0,41,1,1,5,1,2,1,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Jared,1,0,0,0,0,43,2,1,6,0,3,1,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Jared,0,0,1,0,1,43,1,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Jared,1,0,0,0,0,40,1,1,6,0,1,0,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Jared,1,0,0,0,0,41,1,1,6,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Jared,1,0,0,0,0,50,1,1,5,1,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Jared,1,0,0,0,0,46,1,1,5,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Jared,1,0,0,0,0,46,1,1,6,0,2,0,0.65,0.35,2
-10/25/2022,Juniata,Practice,Luke,1,0,0,0,0,41,,1,2,0,2,0,0.55,0.45,2
-10/25/2022,Juniata,Practice,Luke,1,0,0,0,0,44,,1,2,0,2,1,0.55,0.45,2
-10/25/2022,Juniata,Practice,Luke,1,0,0,0,0,58,,1,2,1,2,0,0.55,0.45,2
-10/27/2022,Juniata,Practice,Luke,1,0,0,0,0,38,,1,1,0,1,0,0.7,0.55,3
-10/27/2022,Juniata,Practice,Luke,0,0,0,1,1,57,,1,0,NA,4,1,0,1,0
-10/27/2022,Juniata,Practice,Luke,1,0,0,0,0,42,,1,1,1,1,0,0.7,0.55,3
-10/27/2022,Juniata,Practice,Luke,1,0,0,0,0,48,,1,1,1,1,0,0.7,0.55,3
-10/27/2022,Juniata,Practice,Luke,1,0,0,0,0,53,,1,1,0,1,0,0.7,0.55,3
-10/28/2022,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,38,,1,2,1,2,0,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,51,,1,3,1,3,1,0.45,0.3,1
-10/28/2022,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,43,,1,1,1,1,0,0.7,0.55,3
-10/28/2022,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,42,,1,2,0,2,1,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,49,,1,1,1,1,0,0.7,0.55,3
-10/28/2022,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,52,,1,1,1,1,1,0.7,0.55,3
-10/28/2022,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,49,,1,3,1,3,1,0.45,0.3,1
-10/28/2022,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,55,,1,3,1,3,1,0.45,0.3,1
-10/28/2022,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,49,,1,3,1,3,0,0.45,0.3,1
-10/28/2022,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,53,,1,3,0,3,0,0.45,0.3,1
-10/28/2022,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,52,,1,2,1,2,0,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Luke,1,1,0,0,0,51,,1,4,1,4,FALSE,0,1,0
-10/28/2022,Blue/Gold,Scrimmage,Luke,1,1,0,0,0,53,,1,4,0,FALSE,FALSE,FALSE,FALSE,FALSE
-10/28/2022,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,49,,1,2,1,2,0,0.55,0.45,2
-11/3/2022,Juniata,Practice,Luke,1,0,0,0,0,44,,1,1,0,1,0,0.7,0.55,3
-11/6/2022,Mason,Scrimmage,Luke,0,0,0,1,1,53,,1,0,NA,0,0,FALSE,0,FALSE
-11/6/2022,Mason,Scrimmage,Luke,1,0,0,0,0,41,,1,2,1,2,0,0.55,0.45,2
-2/3/2023,SJF,Match,Luke,1,0,0,0,0,48,1,1,5,0,5,0,FALSE,FALSE,FALSE
-2/3/2023,SJF,Match,Luke,0,0,1,0,1,47,1,1,NA,NA,0,0,1,0,FALSE
-2/3/2023,SJF,Match,Luke,1,0,0,0,0,46,1,1,1,0,2,1,0.65,0.35,2
-2/3/2023,SJF,Match,Luke,1,0,0,0,0,52,2,1,1,1,2,1,0.65,0.35,2
-2/3/2023,SJF,Match,Luke,1,0,0,0,0,53,3,1,1,1,1,0,0.45,0.3,3
-2/3/2023,SJF,Match,Luke,0,0,0,1,1,46,1,1,NA,NA,0,0,1,0,FALSE
-2/3/2023,SJF,Match,Luke,1,0,0,0,0,50,1,1,1,1,1,0,0.45,0.3,3
-2/3/2023,SJF,Match,Luke,1,0,0,0,0,56,1,1,6,1,3,1,0.7,0.55,1
-2/3/2023,SJF,Match,Luke,1,0,0,0,0,60,2,1,6,1,3,1,0.7,0.55,1
-2/3/2023,SJF,Match,Luke,1,0,0,0,0,53,3,1,6,0,2,1,0.65,0.35,2
-2/3/2023,SJF,Match,Luke,1,0,0,0,0,58,4,1,1,1,2,0,0.65,0.35,2
-2/3/2023,SJF,Match,Luke,1,0,0,0,0,54,1,1,6,1,3,1,0.7,0.55,1
-2/3/2023,SJF,Match,Luke,1,1,0,0,0,54,2,1,6,1,4,1,0,1,0
-2/3/2023,SJF,Match,Luke,0,0,0,1,1,60,3,1,NA,NA,0,0,1,0,FALSE
-2/4/2023,Stevenson,Match,Luke,1,0,0,0,0,49,1,1,1,1,1,0,0.45,0.3,3
-2/4/2023,Stevenson,Match,Luke,1,1,0,0,0,46,1,1,6,1,4,1,0,1,0
-2/4/2023,Stevenson,Match,Luke,1,0,0,0,0,50,2,1,6,1,2,1,0.65,0.35,2
-2/4/2023,Stevenson,Match,Luke,1,0,0,0,0,52,3,1,6,1,1,1,0.45,0.3,3
-2/4/2023,Stevenson,Match,Luke,1,0,0,0,0,47,4,1,1,1,1,1,0.45,0.3,3
-2/4/2023,Stevenson,Match,Luke,0,0,1,0,1,54,5,1,NA,NA,0,0,1,0,FALSE
-2/4/2023,Stevenson,Match,Luke,1,0,0,0,0,49,1,1,1,1,3,1,0.7,0.55,1
-2/4/2023,Stevenson,Match,Luke,1,0,0,0,0,49,1,1,6,0,1,0,0.45,0.3,3
-2/4/2023,Stevenson,Match,Luke,1,0,0,0,0,53,1,1,6,0,2,1,0.65,0.35,2
-2/4/2023,Stevenson,Match,Luke,1,0,0,0,0,55,2,1,1,1,3,1,0.7,0.55,1
-2/4/2023,Stevenson,Match,Luke,1,1,0,0,0,58,3,1,6,1,4,1,0,1,0
-2/4/2023,Stevenson,Match,Luke,0,0,0,1,1,51,4,1,NA,NA,0,0,1,0,FALSE
-2/4/2023,Stevenson,Match,Luke,1,1,0,0,0,59,1,1,6,1,4,1,0,1,0
-2/4/2023,Stevenson,Match,Luke,1,1,0,0,0,50,1,1,1,1,4,1,0,1,0
-2/4/2023,Stevenson,Match,Luke,1,1,0,0,0,53,2,1,6,1,4,1,0,1,0
-2/4/2023,Stevenson,Match,Luke,0,0,0,1,1,49,3,1,NA,NA,0,0,1,0,FALSE
-2/4/2023,Stevenson,Match,Luke,1,0,0,0,0,43,1,1,6,1,1,1,0.45,0.3,3
-2/4/2023,Stevenson,Match,Luke,1,1,0,0,0,53,2,1,6,1,4,1,0,1,0
-2/4/2023,Stevenson,Match,Luke,1,0,0,0,0,50,3,1,6,1,3,1,0.7,0.55,1
-2/4/2023,Stevenson,Match,Luke,1,0,0,0,0,51,4,1,1,0,2,1,0.65,0.35,2
-2/4/2023,Stevenson,Match,Luke,1,0,0,0,0,55,5,1,6,1,2,0,0.65,0.35,2
-2/7/2023,Messiah,Match,Luke,1,1,0,0,0,49,1,1,1,1,4,1,0,1,0
-2/7/2023,Messiah,Match,Luke,1,0,0,0,0,49,2,1,5,1,1,1,0.45,0.3,3
-2/7/2023,Messiah,Match,Luke,0,0,0,1,1,47,3,1,NA,NA,0,0,1,0,FALSE
-2/7/2023,Messiah,Match,Luke,1,0,0,0,0,44,1,1,1,1,1,0,0.45,0.3,3
-2/7/2023,Messiah,Match,Luke,0,0,0,1,1,43,1,1,NA,NA,0,0,1,0,FALSE
-2/7/2023,Messiah,Match,Luke,1,0,0,0,0,48,1,1,6,1,2,1,0.65,0.35,2
-2/7/2023,Messiah,Match,Luke,0,0,1,0,1,55,2,1,NA,NA,0,0,1,0,FALSE
-2/7/2023,Messiah,Match,Luke,1,0,0,0,0,51,1,1,5,0,2,1,0.65,0.35,2
-2/7/2023,Messiah,Match,Luke,1,0,0,0,0,58,2,1,6,1,2,1,0.65,0.35,2
-2/7/2023,Messiah,Match,Luke,0,0,1,0,1,57,3,1,NA,NA,0,0,1,0,FALSE
-2/7/2023,Messiah,Match,Luke,1,0,0,0,0,44,1,1,6,1,1,1,0.45,0.3,3
-2/7/2023,Messiah,Match,Luke,1,0,0,0,0,54,2,1,1,0,1,0,0.45,0.3,3
-2/7/2023,Messiah,Match,Luke,1,0,0,0,0,51,1,1,5,1,3,1,0.7,0.55,1
-2/7/2023,Messiah,Match,Luke,1,0,0,0,0,50,2,1,6,0,2,1,0.65,0.35,2
-2/7/2023,Messiah,Match,Luke,1,1,0,0,0,47,3,1,1,1,4,1,0,1,0
-2/7/2023,Messiah,Match,Luke,1,0,0,0,0,52,4,1,6,1,1,1,0.45,0.3,3
-2/7/2023,Messiah,Match,Luke,1,0,0,0,0,44,5,1,5,1,1,0,0.45,0.3,3
-2/7/2023,Messiah,Match,Luke,1,0,0,0,0,45,1,1,6,0,1,0,0.45,0.3,3
-2/7/2023,Messiah,Match,Luke,0,0,1,0,1,53,1,1,NA,NA,0,0,1,0,FALSE
-2/7/2023,Messiah,Match,Luke,0,0,1,0,1,55,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,SVU,Match,Luke,0,0,1,0,1,47,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,SVU,Match,Luke,1,0,0,0,0,55,1,1,6,1,1,0,0.45,0.3,3
-2/18/2023,SVU,Match,Luke,1,0,0,0,0,53,1,1,5,1,1,0,0.45,0.3,3
-2/18/2023,SVU,Match,Luke,1,0,0,0,0,49,1,1,5,0,1,1,0.45,0.3,3
-2/18/2023,SVU,Match,Luke,1,0,0,0,0,58,2,1,6,1,3,1,0.7,0.55,1
-2/18/2023,SVU,Match,Luke,1,0,0,0,0,54,1,1,1,0,2,0,0.65,0.35,2
-2/18/2023,SVU,Match,Luke,1,0,0,0,0,54,1,1,6,0,2,1,0.65,0.35,2
-2/18/2023,SVU,Match,Luke,0,0,1,0,1,56,2,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,SVU,Match,Luke,0,0,0,1,1,56,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,SVU,Match,Luke,1,1,0,0,0,40,1,1,6,0,4,1,0,1,0
-2/18/2023,SVU,Match,Luke,1,1,0,0,0,55,1,1,5,1,4,1,0,1,0
-2/18/2023,SVU,Match,Luke,1,0,0,0,0,62,1,1,6,1,3,0,0.7,0.55,1
-2/18/2023,SVU,Match,Luke,0,0,1,0,1,55,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,SVU,Match,Luke,0,0,1,0,1,52,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,ETown,Match,Luke,1,1,0,0,0,45,1,1,6,1,4,1,0,1,0
-2/18/2023,ETown,Match,Luke,0,0,1,0,1,51,2,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,ETown,Match,Luke,0,0,1,0,1,46,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,ETown,Match,Luke,1,0,0,0,0,53,1,1,5,1,1,0,0.45,0.3,3
-2/18/2023,ETown,Match,Luke,1,0,0,0,0,52,1,1,5,1,2,0,0.65,0.35,2
-2/18/2023,ETown,Match,Luke,1,0,0,0,0,47,1,1,6,1,1,1,0.45,0.3,3
-2/18/2023,ETown,Match,Luke,1,0,0,0,0,56,2,1,1,0,2,1,0.65,0.35,2
-2/18/2023,ETown,Match,Luke,1,0,0,0,0,52,3,1,6,0,1,0,0.45,0.3,3
-2/18/2023,ETown,Match,Luke,0,0,0,1,1,47,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,ETown,Match,Luke,1,0,0,0,0,49,1,1,6,0,1,0,0.45,0.3,3
-2/18/2023,ETown,Match,Luke,1,0,0,0,0,52,1,1,6,1,3,1,0.7,0.55,1
-2/18/2023,ETown,Match,Luke,0,0,0,1,1,57,2,1,NA,NA,0,0,1,0,FALSE
-3/3/2023,Roanoke,Match,Luke,1,0,0,0,0,44,1,1,1,1,3,1,0.7,0.55,1
-3/3/2023,Roanoke,Match,Luke,1,0,0,0,0,45,2,1,1,1,3,0,0.7,0.55,1
-3/3/2023,Roanoke,Match,Luke,1,0,0,0,0,46,1,1,6,0,1,0,0.45,0.3,3
-3/3/2023,Roanoke,Match,Luke,1,0,0,0,0,47,1,1,5,1,2,1,0.65,0.35,2
-3/3/2023,Roanoke,Match,Luke,0,0,1,0,1,47,2,1,NA,NA,0,0,1,0,FALSE
-3/3/2023,Roanoke,Match,Luke,1,0,0,0,0,56,1,1,6,0,2,1,0.65,0.35,2
-3/3/2023,Roanoke,Match,Luke,0,0,1,0,1,50,2,1,NA,NA,0,0,1,0,FALSE
-3/3/2023,Roanoke,Match,Luke,1,0,0,0,0,50,1,1,6,1,2,1,0.65,0.35,2
-3/3/2023,Roanoke,Match,Luke,0,0,0,1,1,51,2,1,NA,NA,0,0,1,0,FALSE
-3/3/2023,Roanoke,Match,Luke,1,1,0,0,0,50,1,1,1,1,4,1,0,1,0
-3/4/2023,Arcadia,Match,Luke,1,0,0,0,0,48,1,1,1,1,1,0,0.45,0.3,3
-3/4/2023,Arcadia,Match,Luke,1,0,0,0,0,52,1,1,1,0,1,0,0.45,0.3,3
-3/4/2023,Arcadia,Match,Luke,1,0,0,0,0,48,1,1,1,0,2,1,0.65,0.35,2
-3/4/2023,Arcadia,Match,Luke,1,0,0,0,0,55,2,1,6,1,1,0,0.45,0.3,3
-3/4/2023,Arcadia,Match,Luke,0,0,1,0,1,48,1,1,NA,NA,0,0,1,0,FALSE
-3/4/2023,Arcadia,Match,Luke,1,0,0,0,0,50,1,1,6,0,1,1,0.45,0.3,3
-3/4/2023,Arcadia,Match,Luke,1,0,0,0,0,57,2,1,6,0,2,1,0.65,0.35,2
-3/4/2023,Arcadia,Match,Luke,1,0,0,0,0,57,3,1,6,1,2,0,0.65,0.35,2
-3/4/2023,Arcadia,Match,Luke,0,0,1,0,1,49,1,1,NA,NA,0,0,1,0,FALSE
-3/29/2023,Etown,Match,Luke,1,0,0,0,0,45,1,1,6,1,1,0,0.45,0.3,3
-3/29/2023,Etown,Match,Luke,1,1,0,0,0,47,1,1,6,1,4,1,0,1,0
-3/29/2023,Etown,Match,Luke,1,0,0,0,0,47,1,1,1,1,3,1,0.7,0.55,1
-3/29/2023,Etown,Match,Luke,1,0,0,0,0,46,2,1,6,1,2,0,0.65,0.35,2
-3/29/2023,Etown,Match,Luke,1,1,0,0,0,49,2,1,6,1,4,1,0,1,0
-3/29/2023,Etown,Match,Luke,1,0,0,0,0,47,1,1,6,1,2,1,0.65,0.35,2
-3/29/2023,Etown,Match,Luke,1,0,0,0,0,61,2,1,6,1,2,1,0.65,0.35,2
-3/29/2023,Etown,Match,Luke,1,0,0,0,0,53,3,1,6,1,2,1,0.65,0.35,2
-3/29/2023,Etown,Match,Luke,1,1,0,0,0,57,4,1,5,1,4,1,0,1,0
-3/29/2023,Etown,Match,Luke,0,0,0,1,1,52,1,1,NA,NA,0,0,1,0,FALSE
-3/29/2023,Etown,Match,Luke,1,0,0,0,0,43,1,1,5,1,1,0,0.45,0.3,3
-3/29/2023,Etown,Match,Luke,1,0,0,0,0,49,1,1,1,0,2,1,0.65,0.35,2
-3/29/2023,Etown,Match,Luke,1,0,0,0,0,48,2,1,1,1,2,1,0.65,0.35,2
-3/29/2023,Etown,Match,Luke,1,1,0,0,0,52,3,1,5,1,4,1,0,1,0
-3/29/2023,Etown,Match,Luke,1,1,0,0,0,54,1,1,6,1,4,1,0,1,0
-3/29/2023,Etown,Match,Luke,0,0,1,0,1,60,1,1,NA,NA,0,0,1,0,FALSE
-3/29/2023,Etown,Match,Luke,1,0,0,0,0,47,1,1,6,0,2,0,0.65,0.35,2
-3/29/2023,Etown,Match,Luke,0,0,1,0,1,48,1,1,NA,NA,0,0,1,0,FALSE
-4/8/2023,Elmira,Match,Luke,1,0,0,0,0,44,1,1,1,0,1,0,0.45,0.3,3
-4/8/2023,Elmira,Match,Luke,1,0,0,0,0,47,1,1,6,1,2,0,0.65,0.35,2
-4/8/2023,Elmira,Match,Luke,1,0,0,0,0,51,1,1,6,1,2,1,0.65,0.35,2
-4/8/2023,Elmira,Match,Luke,0,0,0,1,1,54,2,1,NA,NA,0,0,1,0,FALSE
-4/8/2023,Elmira,Match,Luke,0,0,1,0,1,47,1,1,NA,NA,0,0,1,0,FALSE
-4/8/2023,Elmira,Match,Luke,1,0,0,0,0,50,1,1,6,1,2,0,0.65,0.35,2
-4/8/2023,Elmira,Match,Luke,1,0,0,0,0,55,1,1,6,1,2,1,0.65,0.35,2
-4/8/2023,Elmira,Match,Luke,1,0,0,0,0,51,1,1,5,1,1,1,0.45,0.3,3
-4/8/2023,Elmira,Match,Luke,1,0,0,0,0,52,2,1,1,1,1,0,0.45,0.3,3
-4/8/2023,Elmira,Match,Luke,1,0,0,0,0,51,1,1,6,0,1,0,0.45,0.3,3
-4/8/2023,Elmira,Match,Luke,1,0,0,0,0,51,1,1,6,0,1,0,0.45,0.3,3
-4/8/2023,Elmira,Match,Luke,1,0,0,0,0,46,1,1,1,0,1,0,0.45,0.3,3
-4/8/2023,Elmira,Match,Luke,1,0,0,0,0,49,1,1,6,1,2,1,0.65,0.35,2
-4/8/2023,Elmira,Match,Luke,1,0,0,0,0,56,2,1,6,1,3,1,0.7,0.55,1
-4/8/2023,Elmira,Match,Luke,1,0,0,0,0,47,3,1,1,1,1,0,0.45,0.3,3
-4/8/2023,Elmira,Match,Luke,1,0,0,0,0,45,1,1,5,1,2,1,0.65,0.35,2
-4/8/2023,Elmira,Match,Luke,1,0,0,0,0,49,2,1,1,0,1,1,0.45,0.3,3
-4/8/2023,Elmira,Match,Luke,1,1,0,0,0,59,3,1,6,1,4,1,0,1,0
-4/8/2023,Elmira,Match,Luke,0,0,0,1,1,61,1,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,49,1,1,1,0,2,1,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,52,2,1,6,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,49,1,1,1,1,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,49,1,1,6,0,2,1,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,54,2,1,1,1,3,0,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,51,1,1,6,1,3,0,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Luke,0,0,1,0,1,55,1,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,49,1,1,5,1,3,1,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Luke,0,0,1,0,1,34,2,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Luke,1,0,0,0,0,43,1,1,6,1,2,0,0.65,0.35,2
-10/25/2022,Juniata,Practice,Reese,0,0,0,1,1,36,,NA,0,NA,4,1,0,1,0
-10/25/2022,Juniata,Practice,Reese,1,0,0,0,0,31,,1,2,1,2,0,0.55,0.45,2
-10/25/2022,Juniata,Practice,Reese,1,0,0,0,0,32,,0,1,0,1,1,0.7,0.3,3
-10/25/2022,Juniata,Practice,Reese,1,0,0,0,0,31,,0,1,0,1,0,0.7,0.3,3
-10/27/2022,Juniata,Practice,Reese,1,0,0,0,0,32,,1,2,1,2,1,0.55,0.45,2
-10/27/2022,Juniata,Practice,Reese,1,0,0,0,0,33,,0,1,0,1,0,0.7,0.3,3
-10/27/2022,Juniata,Practice,Reese,1,0,0,0,0,36,,1,2,1,2,1,0.55,0.45,2
-10/27/2022,Juniata,Practice,Reese,0,0,1,0,1,36,,NA,0,FALSE,0,0,FALSE,0,FALSE
-10/27/2022,Juniata,Practice,Reese,1,0,0,0,0,35,,0,1,0,1,FALSE,0.7,0.3,3
-10/27/2022,Juniata,Practice,Reese,1,0,0,0,0,33,,1,1,1,1,0,0.7,0.3,3
-10/27/2022,Juniata,Practice,Reese,1,0,0,0,0,30,,0,1,0,1,0,0.7,0.3,3
-10/27/2022,Juniata,Practice,Reese,1,0,0,0,0,32,,0,3,0,3,1,0.45,0.55,1
-10/27/2022,Juniata,Practice,Reese,1,0,0,0,0,31,,1,2,1,2,1,0.55,0.45,2
-10/27/2022,Juniata,Practice,Reese,1,0,0,0,0,32,,1,3,1,3,0,0.45,0.55,1
-10/28/2022,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,30,,1,2,1,2,0,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,34,,0,2,0,2,1,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,30,,1,1,1,1,0,0.7,0.3,3
-10/28/2022,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,25,,0,1,0,1,0,0.7,0.3,3
-10/28/2022,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,32,,0,2,0,2,1,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,34,,1,1,1,1,0,0.7,0.3,3
-10/28/2022,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,33,,0,1,0,1,1,0.7,0.3,3
-10/28/2022,Blue/Gold,Scrimmage,Reese,0,0,1,0,1,26,,NA,0,FALSE,0,0,FALSE,0,FALSE
-10/28/2022,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,31,,1,1,1,1,0,0.7,0.3,3
-10/28/2022,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,32,,0,2,0,2,1,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,34,,1,1,1,1,0,0.7,0.3,3
-10/28/2022,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,29,,0,2,0,2,1,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,32,,0,2,0,2,0,0.55,0.45,2
-11/3/2022,Juniata,Practice,Reese,0,0,1,0,1,33,,NA,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-11/3/2022,Juniata,Practice,Reese,0,0,1,0,1,35,,NA,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-11/3/2022,Juniata,Practice,Reese,1,0,0,0,0,35,,1,2,1,2,1,0.55,0.45,2
-11/3/2022,Juniata,Practice,Reese,1,0,0,0,0,34,,0,1,0,1,0,0.7,0.3,3
-11/3/2022,Juniata,Practice,Reese,0,0,1,0,1,33,,NA,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-11/3/2022,Juniata,Practice,Reese,1,0,0,0,0,31,,1,1,1,1,0,0.7,0.3,3
-11/6/2022,Mason,Scrimmage,Reese,1,0,0,0,0,32,,1,1,1,1,0,0.7,0.3,3
-11/6/2022,Mason,Scrimmage,Reese,1,0,0,0,0,30,,0,2,0,2,1,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Reese,1,0,0,0,0,31,,1,1,1,1,0,0.7,0.3,3
-11/6/2022,Mason,Scrimmage,Reese,1,0,0,0,0,31,,1,3,1,3,1,0.45,0.55,1
-11/6/2022,Mason,Scrimmage,Reese,1,0,0,0,0,30,,0,2,0,2,1,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Reese,1,0,0,0,0,30,,0,1,0,1,1,0.7,0.3,3
-11/6/2022,Mason,Scrimmage,Reese,1,0,0,0,0,35,,1,2,1,2,1,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Reese,1,0,0,0,0,32,,1,1,1,1,0,0.7,0.3,3
-11/6/2022,Mason,Scrimmage,Reese,1,0,0,0,0,31,,0,1,0,1,1,0.7,0.3,3
-11/6/2022,Mason,Scrimmage,Reese,1,0,0,0,0,31,,1,1,1,1,0,0.7,0.3,3
-11/6/2022,Mason,Scrimmage,Reese,1,0,0,0,0,31,,FALSE,1,FALSE,1,0,0.7,0.3,3
-11/6/2022,Mason,Scrimmage,Reese,1,0,0,0,0,33,,1,1,1,1,0,0.7,0.3,3
-1/13/2023,Merrimack,Scrimmage,Reese,1,0,0,0,0,32,,1,1,1,1,0,0.45,0.3,3
-1/13/2023,Merrimack,Scrimmage,Reese,1,0,0,0,0,32,,0,3,0,3,1,0.7,0.55,1
-1/13/2023,Merrimack,Scrimmage,Reese,1,0,0,0,0,30,,0,1,0,1,0,0.45,0.3,3
-1/13/2023,Merrimack,Scrimmage,Reese,1,0,0,0,0,35,,0,2,0,2,0,0.65,0.35,2
-1/13/2023,Merrimack,Scrimmage,Reese,1,0,0,0,0,31,,1,2,1,2,1,0.65,0.35,2
-1/13/2023,Merrimack,Scrimmage,Reese,1,0,0,0,0,30,,0,1,0,1,0,0.45,0.3,3
-1/13/2023,Merrimack,Scrimmage,Reese,1,0,0,0,0,33,,1,3,1,3,0,0.7,0.55,1
-2/3/2023,SJF,Match,Reese,1,0,0,0,0,31,1,1,6,1,1,0,0.45,0.3,3
-2/3/2023,SJF,Match,Reese,1,0,0,0,0,30,1,1,6,0,2,0,0.65,0.35,2
-2/3/2023,SJF,Match,Reese,1,0,0,0,0,34,1,1,5,0,1,0,0.45,0.3,3
-2/3/2023,SJF,Match,Reese,1,0,0,0,0,33,1,1,5,0,1,1,0.45,0.3,3
-2/3/2023,SJF,Match,Reese,1,0,0,0,0,34,2,1,6,0,1,1,0.45,0.3,3
-2/3/2023,SJF,Match,Reese,1,0,0,0,0,31,3,1,6,1,2,1,0.65,0.35,2
-2/3/2023,SJF,Match,Reese,1,0,0,0,0,30,4,1,6,1,2,0,0.65,0.35,2
-2/3/2023,SJF,Match,Reese,1,0,0,0,0,33,1,1,3,1,1,FALSE,0.45,0.3,3
-2/4/2023,Stevenson,Match,Reese,1,0,0,0,0,35,1,1,5,0,1,1,0.45,0.3,3
-2/4/2023,Stevenson,Match,Reese,1,0,0,0,0,32,2,1,6,1,2,0,0.65,0.35,2
-2/4/2023,Stevenson,Match,Reese,1,0,0,0,0,30,1,1,1,0,2,1,0.65,0.35,2
-2/4/2023,Stevenson,Match,Reese,1,0,0,0,0,32,2,1,1,0,3,1,0.7,0.55,1
-2/4/2023,Stevenson,Match,Reese,1,0,0,0,0,31,3,1,1,1,1,0,0.45,0.3,3
-2/4/2023,Stevenson,Match,Reese,1,0,0,0,0,33,1,1,5,0,1,0,0.45,0.3,3
-2/4/2023,Stevenson,Match,Reese,1,0,0,0,0,33,1,1,5,1,2,1,0.65,0.35,2
-2/4/2023,Stevenson,Match,Reese,1,0,0,0,0,33,2,1,5,1,1,0,0.45,0.3,3
-2/4/2023,Stevenson,Match,Reese,1,0,0,0,0,33,1,1,1,0,2,0,0.65,0.35,2
-2/7/2023,Messiah,Match,Reese,1,0,0,0,0,31,1,1,5,1,1,1,0.45,0.3,3
-2/7/2023,Messiah,Match,Reese,1,0,0,0,0,32,2,1,6,0,1,0,0.45,0.3,3
-2/7/2023,Messiah,Match,Reese,1,0,0,0,0,31,1,1,6,0,1,1,0.45,0.3,3
-2/7/2023,Messiah,Match,Reese,1,0,0,0,0,30,2,1,5,0,1,0,0.45,0.3,3
-2/7/2023,Messiah,Match,Reese,1,0,0,0,0,29,1,1,2,1,1,0,0.45,0.3,3
-2/7/2023,Messiah,Match,Reese,1,0,0,0,0,31,1,1,5,1,2,1,0.65,0.35,2
-2/7/2023,Messiah,Match,Reese,1,0,0,0,0,30,2,1,5,0,1,0,0.45,0.3,3
-2/7/2023,Messiah,Match,Reese,1,0,0,0,0,32,1,1,6,0,1,0,0.45,0.3,3
-2/7/2023,Messiah,Match,Reese,1,0,0,0,0,30,1,1,3,0,1,0,0.45,0.3,3
-2/18/2023,SVU,Match,Reese,0,0,0,1,1,34,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,SVU,Match,Reese,1,0,0,0,0,30,1,1,6,0,1,0,0.45,0.3,3
-2/18/2023,SVU,Match,Reese,1,0,0,0,0,35,1,1,6,0,1,1,0.45,0.3,3
-2/18/2023,SVU,Match,Reese,0,0,0,1,1,38,2,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,SVU,Match,Reese,1,0,0,0,0,34,1,5,1,0,1,0,0.45,0.3,3
-2/18/2023,SVU,Match,Reese,0,0,1,0,1,32,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,SVU,Match,Reese,1,0,0,0,0,34,1,1,5,0,2,0,0.65,0.35,2
-2/18/2023,SVU,Match,Reese,1,0,0,0,0,32,1,1,5,1,2,1,0.65,0.35,2
-2/18/2023,SVU,Match,Reese,1,0,0,0,0,32,2,1,6,0,1,0,0.45,0.3,3
-3/3/2023,Roanoke,Match,Reese,1,1,0,0,0,49,1,1,5,1,4,1,0,1,0
-3/3/2023,Roanoke,Match,Reese,0,0,1,0,1,50,1,1,NA,NA,0,0,1,0,FALSE
-3/3/2023,Roanoke,Match,Reese,1,0,0,0,0,47,1,1,6,0,1,1,0.45,0.3,3
-3/3/2023,Roanoke,Match,Reese,1,0,0,0,0,50,2,1,6,0,2,0,0.65,0.35,2
-3/3/2023,Roanoke,Match,Reese,1,0,0,0,0,45,1,1,5,1,3,1,0.7,0.55,1
-3/3/2023,Roanoke,Match,Reese,0,0,1,0,1,49,2,1,NA,NA,0,0,1,0,FALSE
-3/3/2023,Roanoke,Match,Reese,1,0,0,0,0,49,1,1,5,1,3,1,0.7,0.55,1
-3/3/2023,Roanoke,Match,Reese,1,0,0,0,0,52,2,1,6,0,1,0,0.45,0.3,3
-3/3/2023,Roanoke,Match,Reese,1,0,0,0,0,50,1,1,6,0,1,1,0.45,0.3,3
-3/3/2023,Roanoke,Match,Reese,1,0,0,0,0,48,2,1,1,1,3,1,0.7,0.55,1
-3/3/2023,Roanoke,Match,Reese,1,0,0,0,0,50,3,1,5,1,1,0,0.45,0.3,3
-3/3/2023,Roanoke,Match,Reese,1,0,0,0,0,45,1,1,6,0,2,1,0.65,0.35,2
-3/3/2023,Roanoke,Match,Reese,1,1,0,0,0,48,2,1,3,1,4,1,0,1,0
-3/3/2023,Roanoke,Match,Reese,1,0,0,0,0,48,1,1,6,1,1,1,0.45,0.3,3
-3/3/2023,Roanoke,Match,Reese,1,0,0,0,0,49,2,1,6,0,1,1,0.45,0.3,3
-3/3/2023,Roanoke,Match,Reese,1,0,0,0,0,45,1,1,5,1,1,0,0.45,0.3,3
-3/4/2023,Arcadia,Match,Reese,0,0,1,0,1,50,1,1,NA,NA,0,0,1,0,FALSE
-3/4/2023,Arcadia,Match,Reese,1,0,0,0,0,46,1,1,6,1,2,1,0.65,0.35,2
-3/4/2023,Arcadia,Match,Reese,1,0,0,0,0,49,2,1,6,0,2,1,0.65,0.35,2
-3/4/2023,Arcadia,Match,Reese,0,0,0,1,1,49,3,1,NA,NA,0,0,1,0,FALSE
-3/4/2023,Arcadia,Match,Reese,1,0,0,0,0,50,1,1,6,1,1,0,0.45,0.3,3
-3/4/2023,Arcadia,Match,Reese,1,0,0,0,0,50,1,1,6,1,1,1,0.45,0.3,3
-3/4/2023,Arcadia,Match,Reese,0,0,1,0,1,52,2,1,NA,NA,0,0,1,0,FALSE
-3/4/2023,Arcadia,Match,Reese,1,0,0,0,0,49,1,1,6,0,1,1,0.45,0.3,3
-3/4/2023,Arcadia,Match,Reese,1,0,0,0,0,47,2,1,5,1,2,1,0.65,0.35,2
-3/4/2023,Arcadia,Match,Reese,1,0,0,0,0,50,3,1,6,1,2,0,0.65,0.35,2
-3/4/2023,Arcadia,Match,Reese,0,0,1,0,1,51,1,1,NA,NA,0,0,1,0,FALSE
-3/29/2023,Etown,Match,Max C,1,0,0,0,0,47,1,1,5,0,1,1,0.45,0.3,3
-3/29/2023,Etown,Match,Max C,1,0,0,0,0,59,2,1,6,1,1,0,0.45,0.3,3
-3/29/2023,Etown,Match,Max C,1,0,0,0,0,55,1,1,5,0,1,1,0.45,0.3,3
-3/29/2023,Etown,Match,Max C,1,0,0,0,0,45,2,1,6,1,2,0,0.65,0.35,2
-3/29/2023,Etown,Match,Max C,1,1,0,0,0,51,1,1,5,1,4,1,0,1,0
-3/29/2023,Etown,Match,Max C,1,0,0,0,0,39,1,1,6,1,2,1,0.65,0.35,2
-3/29/2023,Etown,Match,Max C,1,0,0,0,0,49,1,1,6,1,1,0,0.45,0.3,3
-3/29/2023,Etown,Match,Max C,1,0,0,0,0,51,1,1,1,0,2,0,0.65,0.35,2
-3/29/2023,Etown,Match,Max C,1,0,0,0,0,47,1,1,6,0,2,0,0.65,0.35,2
-3/29/2023,Etown,Match,Max C,1,0,0,0,0,44,1,1,5,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,47,1,1,1,1,1,0,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,52,1,1,6,0,1,0,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Reese,0,0,0,1,1,51,1,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,46,1,1,6,1,3,1,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,52,2,1,1,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,53,1,1,6,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,50,1,1,6,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,53,1,1,1,1,2,1,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,56,2,1,2,1,3,1,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Reese,1,1,0,0,0,55,3,1,6,0,3,1,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,52,1,1,6,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Reese,1,1,0,0,0,52,1,1,6,1,4,1,0,1,0
-10/27/2023,Blue/Gold,Scrimmage,Reese,1,0,0,0,0,53,1,1,6,1,1,0,0.45,0.3,3
-10/25/2022,Juniata,Practice,Tyler G,1,0,0,0,0,57,,1,,1,2,0,0.55,0.45,2
-10/25/2022,Juniata,Practice,Tyler G,0,0,1,0,1,58,,1,,NA,0,0,FALSE,0,FALSE
-10/25/2022,Juniata,Practice,Tyler G,1,0,0,0,0,61,,1,,0,3,1,0.45,0.3,1
-10/25/2022,Juniata,Practice,Tyler G,1,1,0,0,0,61,,1,,1,FALSE,FALSE,FALSE,FALSE,FALSE
-10/25/2022,Juniata,Practice,Tyler G,1,0,0,0,0,58,,1,,0,2,0,0.55,0.45,2
-10/25/2022,Juniata,Practice,Tyler G,1,0,0,0,0,55,,1,,0,2,0,0.55,0.45,2
-10/27/2022,Juniata,Practice,Tyler G,1,0,0,0,0,60,,1,,1,1,0,0.7,0.55,3
-10/27/2022,Juniata,Practice,Tyler G,1,1,0,0,0,59,,1,,1,FALSE,FALSE,FALSE,FALSE,FALSE
-10/27/2022,Juniata,Practice,Tyler G,1,0,0,0,0,48,,1,,1,2,0,0.55,0.45,2
-10/27/2022,Juniata,Practice,Tyler G,1,0,0,0,0,57,,1,,1,1,0,0.7,0.55,3
-10/27/2022,Juniata,Practice,Tyler G,1,0,0,0,0,62,,1,,1,3,1,0.45,0.3,1
-10/27/2022,Juniata,Practice,Tyler G,0,0,0,1,1,63,,1,,FALSE,4,1,0,1,0
-10/27/2022,Juniata,Practice,Tyler G,1,0,0,0,0,60,,1,,1,2,1,0.55,0.45,2
-10/27/2022,Juniata,Practice,Tyler G,0,0,1,0,1,60,,1,,FALSE,0,0,FALSE,0,FALSE
-10/27/2022,Juniata,Practice,Tyler G,1,0,0,0,0,60,,1,,1,1,0,0.7,0.55,3
-10/27/2022,Juniata,Practice,Tyler G,1,0,0,0,0,59,,1,,1,3,1,0.45,0.3,1
-10/27/2022,Juniata,Practice,Tyler G,1,1,0,0,0,57,,1,,0,FALSE,FALSE,FALSE,FALSE,FALSE
-10/27/2022,Juniata,Practice,Tyler G,1,0,0,0,0,64,,1,,1,3,0,0.45,0.3,1
-10/28/2022,Blue/Gold,Scrimmage,Tyler G,0,0,0,1,1,57,,1,,FALSE,4,1,0,1,0
-10/28/2022,Blue/Gold,Scrimmage,Tyler G,1,0,0,0,0,50,,1,,0,2,0,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Tyler G,1,0,0,0,0,57,,1,,1,3,1,0.45,0.3,1
-10/28/2022,Blue/Gold,Scrimmage,Tyler G,1,0,0,0,0,55,,1,,1,3,0,0.45,0.3,1
-10/28/2022,Blue/Gold,Scrimmage,Tyler G,0,0,1,0,1,52,,1,,FALSE,0,0,FALSE,0,FALSE
-10/28/2022,Blue/Gold,Scrimmage,Tyler G,1,0,0,0,0,56,,1,,1,3,0,0.45,0.3,1
-10/28/2022,Blue/Gold,Scrimmage,Tyler G,0,0,0,1,1,63,,1,,FALSE,4,1,0,1,0
-10/28/2022,Blue/Gold,Scrimmage,Tyler G,1,0,0,0,0,52,,1,,0,1,1,0.7,0.55,3
-10/28/2022,Blue/Gold,Scrimmage,Tyler G,1,0,0,0,0,59,,1,,0,3,0,0.45,0.3,1
-10/28/2022,Blue/Gold,Scrimmage,Tyler G,0,0,1,0,1,57,,1,,FALSE,0,0,FALSE,0,FALSE
-11/3/2022,Juniata,Practice,Tyler G,1,0,0,0,0,50,,1,,1,3,1,0.45,0.3,1
-11/3/2022,Juniata,Practice,Tyler G,0,0,1,0,1,46,,1,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-11/3/2022,Juniata,Practice,Tyler G,1,0,0,0,0,62,,1,,1,3,1,0.45,0.3,1
-11/3/2022,Juniata,Practice,Tyler G,0,0,1,0,1,57,,1,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-11/3/2022,Juniata,Practice,Tyler G,1,0,0,0,0,61,,1,,0,1,1,0.7,0.55,3
-11/3/2022,Juniata,Practice,Tyler G,1,0,0,0,0,61,,1,,1,2,1,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Tyler G,0,0,1,0,1,49,,1,,NA,0,0,FALSE,0,FALSE
-11/6/2022,Mason,Scrimmage,Tyler G,1,0,0,0,0,53,,1,,1,2,1,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Tyler G,1,0,0,0,0,59,,1,,1,2,0,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Tyler G,1,1,0,0,0,56,,1,,1,4,1,0,1,0
-11/6/2022,Mason,Scrimmage,Tyler G,0,0,1,0,1,61,,1,,FALSE,0,0,FALSE,0,FALSE
-11/6/2022,Mason,Scrimmage,Tyler G,1,0,0,0,0,59,,1,,1,2,1,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Tyler G,1,0,0,0,0,53,,1,,1,1,1,0.7,0.55,3
-11/6/2022,Mason,Scrimmage,Tyler G,1,0,0,0,0,53,,1,,1,2,0,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Tyler G,0,0,1,0,1,59,,1,,FALSE,0,0,FALSE,0,FALSE
-11/6/2022,Mason,Scrimmage,Tyler G,1,0,0,0,0,54,,1,,1,3,1,0.45,0.3,1
-11/6/2022,Mason,Scrimmage,Tyler G,1,0,0,0,0,51,,1,,0,1,0,0.7,0.55,3
-11/6/2022,Mason,Scrimmage,Tyler G,1,0,0,0,0,50,,1,,1,2,1,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Tyler G,1,0,0,0,0,51,,1,,1,3,0,0.45,0.3,1
-11/6/2022,Mason,Scrimmage,Tyler G,1,1,0,0,0,60,,1,,1,4,1,0,1,0
-11/6/2022,Mason,Scrimmage,Tyler G,1,0,0,0,0,53,,1,,1,3,1,0.45,0.3,1
-11/6/2022,Mason,Scrimmage,Tyler G,1,0,0,0,0,54,,1,,1,2,1,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Tyler G,1,1,0,0,0,39,,1,,1,4,1,0,1,0
-11/6/2022,Mason,Scrimmage,Tyler G,1,0,0,0,0,51,,1,,1,2,1,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Tyler G,1,0,0,0,0,54,,1,,1,2,0,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Tyler G,0,0,1,0,1,50,,1,,FALSE,0,0,FALSE,0,FALSE
-1/13/2023,Merrimack,Scrimmage,Tyler G,0,0,0,1,1,55,,1,,NA,0,0,1,0,FALSE
-1/13/2023,Merrimack,Scrimmage,Tyler G,1,0,0,0,0,61,,1,,0,1,0,0.45,0.3,3
-1/13/2023,Merrimack,Scrimmage,Tyler G,1,1,0,0,0,60,,1,,1,4,1,0,1,0
-1/13/2023,Merrimack,Scrimmage,Tyler G,0,0,1,0,1,61,,1,,FALSE,0,0,1,0,FALSE
-1/13/2023,Merrimack,Scrimmage,Tyler G,1,0,0,0,0,60,,1,,1,3,1,0.7,0.55,1
-1/13/2023,Merrimack,Scrimmage,Tyler G,0,0,1,0,1,58,,1,,FALSE,0,0,1,0,FALSE
-1/13/2023,Merrimack,Scrimmage,Tyler G,1,0,0,0,0,60,,1,,0,2,1,0.65,0.35,2
-1/13/2023,Merrimack,Scrimmage,Tyler G,0,0,1,0,1,64,,1,,FALSE,0,0,1,0,FALSE
-1/13/2023,Merrimack,Scrimmage,Tyler G,1,0,0,0,0,57,,1,,1,2,0,0.65,0.35,2
-1/13/2023,Merrimack,Scrimmage,Tyler G,1,0,0,0,0,56,,1,,1,2,0,0.65,0.35,2
-2/3/2023,SJF,Match,Tyler G,1,0,0,0,0,53,1,1,5,0,1,0,0.45,0.3,3
-2/3/2023,SJF,Match,Tyler G,1,0,0,0,0,51,1,1,5,0,1,1,0.45,0.3,3
-2/3/2023,SJF,Match,Tyler G,1,0,0,0,0,60,2,1,1,1,2,0,0.65,0.35,2
-2/3/2023,SJF,Match,Tyler G,0,0,0,1,1,54,1,1,NA,NA,0,0,1,0,FALSE
-2/3/2023,SJF,Match,Tyler G,1,0,0,0,0,59,1,1,6,1,2,1,0.65,0.35,2
-2/3/2023,SJF,Match,Tyler G,0,0,1,0,1,60,2,1,NA,NA,0,0,1,0,FALSE
-2/3/2023,SJF,Match,Tyler G,0,0,0,1,1,52,1,1,NA,NA,0,0,1,0,FALSE
-2/3/2023,SJF,Match,Tyler G,0,0,1,0,1,51,1,1,NA,NA,0,0,1,0,FALSE
-2/3/2023,SJF,Match,Tyler G,1,1,0,0,0,61,1,1,5,1,4,1,0,1,0
-2/3/2023,SJF,Match,Tyler G,1,0,0,0,0,61,2,1,6,1,2,0,0.65,0.35,2
-2/3/2023,SJF,Match,Tyler G,0,0,0,1,1,57,1,1,NA,NA,0,0,1,0,FALSE
-2/3/2023,SJF,Match,Tyler G,1,0,0,0,0,56,1,1,6,1,1,1,0.45,0.3,3
-2/3/2023,SJF,Match,Tyler G,0,0,1,0,1,63,2,1,NA,NA,0,0,1,0,FALSE
-2/4/2023,Stevenson,Match,Tyler G,1,1,0,0,0,60,1,1,5,1,4,1,0,1,0
-2/4/2023,Stevenson,Match,Tyler G,0,0,1,0,1,60,2,1,NA,NA,0,0,1,0,FALSE
-2/4/2023,Stevenson,Match,Tyler G,1,1,0,0,0,52,1,1,5,0,4,1,0,1,0
-2/4/2023,Stevenson,Match,Tyler G,0,0,1,0,1,49,2,1,NA,NA,0,0,1,0,FALSE
-2/4/2023,Stevenson,Match,Tyler G,1,0,0,0,0,56,1,1,6,0,2,0,0.65,0.35,2
-2/4/2023,Stevenson,Match,Tyler G,1,0,0,0,0,55,1,1,5,1,2,0,0.65,0.35,2
-2/4/2023,Stevenson,Match,Tyler G,1,1,0,0,0,58,1,1,6,1,4,1,0,1,0
-2/4/2023,Stevenson,Match,Tyler G,1,0,0,0,0,62,2,1,6,0,1,1,0.45,0.3,3
-2/4/2023,Stevenson,Match,Tyler G,1,0,0,0,0,42,3,1,6,1,1,0,0.45,0.3,3
-2/4/2023,Stevenson,Match,Tyler G,0,0,1,0,1,60,1,1,NA,NA,0,0,1,0,FALSE
-2/7/2023,Messiah,Match,Tyler G,0,0,1,0,1,55,1,1,NA,NA,0,0,1,0,FALSE
-2/7/2023,Messiah,Match,Tyler G,1,0,0,0,0,57,1,1,6,0,2,0,0.65,0.35,2
-2/7/2023,Messiah,Match,Tyler G,1,0,0,0,0,60,1,1,6,1,3,0,0.7,0.55,1
-2/7/2023,Messiah,Match,Tyler G,1,0,0,0,0,52,1,1,6,1,3,1,0.7,0.55,1
-2/7/2023,Messiah,Match,Tyler G,1,0,0,0,0,59,2,1,6,1,1,0,0.45,0.3,3
-2/7/2023,Messiah,Match,Tyler G,1,0,0,0,0,45,1,1,6,0,2,0,0.65,0.35,2
-2/7/2023,Messiah,Match,Tyler G,1,0,0,0,0,62,1,1,5,1,2,1,0.65,0.35,2
-2/7/2023,Messiah,Match,Tyler G,0,0,1,0,1,62,2,1,NA,NA,0,0,1,0,FALSE
-2/7/2023,Messiah,Match,Tyler G,0,0,0,1,1,51,1,1,NA,NA,0,0,1,0,FALSE
-2/7/2023,Messiah,Match,Tyler G,1,0,0,0,0,54,1,1,5,1,1,1,0.45,0.3,3
-2/7/2023,Messiah,Match,Tyler G,1,0,0,0,0,62,2,1,5,1,3,0,0.7,0.55,1
-2/7/2023,Messiah,Match,Tyler G,1,0,0,0,0,47,1,1,5,1,1,0,0.45,0.3,3
-2/18/2023,SVU,Match,Tyler G,0,0,1,0,1,58,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,SVU,Match,Tyler G,1,0,0,0,0,60,1,1,6,1,1,0,0.45,0.3,3
-2/18/2023,SVU,Match,Tyler G,0,0,0,1,1,65,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,SVU,Match,Tyler G,1,0,0,0,0,64,1,1,6,0,1,1,0.45,0.3,3
-2/18/2023,SVU,Match,Tyler G,0,0,0,1,1,64,2,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,SVU,Match,Tyler G,1,0,0,0,0,58,1,1,5,1,2,1,0.65,0.35,2
-2/18/2023,SVU,Match,Tyler G,1,0,0,0,0,49,2,1,6,1,1,1,0.45,0.3,3
-2/18/2023,SVU,Match,Tyler G,0,0,1,0,1,63,3,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,SVU,Match,Tyler G,1,0,0,0,0,54,1,1,6,1,2,0,0.65,0.35,2
-2/18/2023,SVU,Match,Tyler G,0,0,1,0,1,43,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,SVU,Match,Tyler G,1,0,0,0,0,55,1,1,6,1,2,1,0.65,0.35,2
-2/18/2023,SVU,Match,Tyler G,1,0,0,0,0,45,2,1,5,0,1,0,0.45,0.3,3
-2/18/2023,SVU,Match,Tyler G,1,0,0,0,0,58,1,1,1,0,2,1,0.65,0.35,2
-2/18/2023,SVU,Match,Tyler G,1,1,0,0,0,55,1,1,5,1,4,1,0,1,0
-2/18/2023,SVU,Match,Tyler G,1,0,0,0,0,45,2,1,1,0,1,0,0.45,0.3,3
-2/18/2023,SVU,Match,Tyler G,1,0,0,0,0,,1,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/18/2023,ETown,Match,Tyler G,1,0,0,0,0,60,1,1,5,0,1,0,0.45,0.3,3
-2/18/2023,ETown,Match,Tyler G,0,0,1,0,1,63,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,ETown,Match,Tyler G,0,0,1,0,1,56,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,ETown,Match,Tyler G,1,0,0,0,0,51,1,1,3,1,2,0,0.65,0.35,2
-2/18/2023,ETown,Match,Tyler G,1,0,0,0,0,41,1,1,6,0,1,1,0.45,0.3,3
-2/18/2023,ETown,Match,Tyler G,1,0,0,0,0,62,2,1,6,1,3,1,0.7,0.55,1
-2/18/2023,ETown,Match,Tyler G,0,0,0,1,1,58,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,ETown,Match,Tyler G,1,0,0,0,0,43,1,1,5,1,2,1,0.65,0.35,2
-2/18/2023,ETown,Match,Tyler G,1,0,0,0,0,59,2,1,5,1,3,1,0.7,0.55,1
-2/18/2023,ETown,Match,Tyler G,1,0,0,0,0,57,1,1,5,1,3,1,0.7,0.55,1
-2/18/2023,ETown,Match,Tyler G,1,1,0,0,0,64,2,1,6,1,4,1,0,1,0
-2/18/2023,ETown,Match,Tyler G,0,0,1,0,1,38,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,ETown,Match,Tyler G,1,1,0,0,0,58,1,1,6,1,4,1,0,1,0
-2/18/2023,ETown,Match,Tyler G,1,0,0,0,0,42,2,1,5,0,1,0,0.45,0.3,3
-2/18/2023,ETown,Match,Tyler G,1,0,0,0,0,59,1,1,6,1,2,0,0.65,0.35,2
-2/18/2023,ETown,Match,Tyler G,1,0,0,0,0,64,1,1,6,0,3,1,0.7,0.55,1
-2/18/2023,ETown,Match,Tyler G,1,0,0,0,0,65,2,1,6,1,1,1,0.45,0.3,3
-2/18/2023,ETown,Match,Tyler G,1,1,0,0,0,67,3,1,6,1,4,1,0,1,0
-3/3/2023,Roanoke,Match,Tyler G,1,0,0,0,0,52,1,1,5,0,3,0,0.7,0.55,1
-3/3/2023,Roanoke,Match,Tyler G,1,0,0,0,0,56,1,1,6,1,3,1,0.7,0.55,1
-3/3/2023,Roanoke,Match,Tyler G,1,0,0,0,0,66,2,1,6,1,3,1,0.7,0.55,1
-3/3/2023,Roanoke,Match,Tyler G,1,0,0,0,0,54,1,1,5,0,2,1,0.65,0.35,2
-3/3/2023,Roanoke,Match,Tyler G,1,0,0,0,0,53,2,1,6,0,1,1,0.45,0.3,3
-3/3/2023,Roanoke,Match,Tyler G,1,0,0,0,0,63,3,1,6,0,2,0,0.65,0.35,2
-3/3/2023,Roanoke,Match,Tyler G,1,0,0,0,0,59,1,1,5,1,2,0,0.65,0.35,2
-3/4/2023,Arcadia,Match,Tyler G,0,0,0,1,1,51,1,1,NA,NA,0,0,1,0,FALSE
-3/4/2023,Arcadia,Match,Tyler G,1,0,0,0,0,50,1,1,6,0,2,1,0.65,0.35,2
-3/4/2023,Arcadia,Match,Tyler G,1,0,0,0,0,58,2,1,6,0,2,1,0.65,0.35,2
-3/4/2023,Arcadia,Match,Tyler G,1,0,0,0,0,60,1,1,5,0,1,1,0.45,0.3,3
-3/4/2023,Arcadia,Match,Tyler G,1,0,0,0,0,56,2,1,6,0,1,1,0.45,0.3,3
-3/4/2023,Arcadia,Match,Tyler G,1,1,0,0,0,53,3,1,6,1,4,1,0,1,0
-3/4/2023,Arcadia,Match,Tyler G,0,0,1,0,1,42,1,1,NA,NA,0,0,1,0,FALSE
-3/4/2023,Arcadia,Match,Tyler G,1,0,0,0,0,57,1,1,6,1,2,1,0.65,0.35,2
-3/4/2023,Arcadia,Match,Tyler G,1,0,0,0,0,58,2,1,6,1,1,0,0.45,0.3,3
-3/4/2023,Arcadia,Match,Tyler G,1,1,0,0,0,59,1,1,5,1,4,1,0,1,0
-3/4/2023,Arcadia,Match,Tyler G,1,0,0,0,0,48,1,1,5,1,1,1,0.45,0.3,3
-3/4/2023,Arcadia,Match,Tyler G,1,0,0,0,0,56,2,1,1,1,1,1,0.45,0.3,3
-3/4/2023,Arcadia,Match,Tyler G,1,0,0,0,0,56,3,1,6,1,2,1,0.65,0.35,2
-3/4/2023,Arcadia,Match,Tyler G,1,0,0,0,0,64,4,1,6,1,2,1,0.65,0.35,2
-3/4/2023,Arcadia,Match,Tyler G,1,0,0,0,0,56,1,1,6,0,1,1,0.45,0.3,3
-3/4/2023,Arcadia,Match,Tyler G,1,0,0,0,0,50,2,1,5,1,1,1,0.45,0.3,3
-3/4/2023,Arcadia,Match,Tyler G,1,0,0,0,0,51,3,1,1,1,2,1,0.65,0.35,2
-3/4/2023,Arcadia,Match,Tyler G,1,0,0,0,0,56,1,1,6,1,2,1,0.65,0.35,2
-3/4/2023,Arcadia,Match,Tyler G,1,0,0,0,0,61,2,1,6,1,2,0,0.65,0.35,2
-3/4/2023,Arcadia,Match,Tyler G,1,0,0,0,0,46,1,1,5,1,3,1,0.7,0.55,1
-3/4/2023,Arcadia,Match,Tyler G,1,0,0,0,0,62,2,1,6,1,1,0,0.45,0.3,3
-3/29/2023,Etown,Match,Tyler G,1,0,0,0,0,52,1,1,6,0,2,1,0.65,0.35,2
-3/29/2023,Etown,Match,Tyler G,1,1,0,0,0,61,2,1,5,1,4,1,0,1,0
-3/29/2023,Etown,Match,Tyler G,1,1,0,0,0,59,1,1,5,1,4,1,0,1,0
-3/29/2023,Etown,Match,Tyler G,1,0,0,0,0,52,1,1,6,0,2,1,0.65,0.35,2
-3/29/2023,Etown,Match,Tyler G,1,0,0,0,0,63,2,1,6,0,2,1,0.65,0.35,2
-3/29/2023,Etown,Match,Tyler G,1,0,0,0,0,46,3,1,6,0,1,0,0.45,0.3,3
-3/29/2023,Etown,Match,Tyler G,1,0,0,0,0,47,1,1,1,0,1,1,0.45,0.3,3
-3/29/2023,Etown,Match,Tyler G,1,0,0,0,0,62,2,1,5,1,3,1,0.7,0.55,1
-3/29/2023,Etown,Match,Tyler G,0,0,1,0,1,48,3,1,NA,NA,0,0,1,0,FALSE
-3/29/2023,Etown,Match,Tyler G,1,1,0,0,0,52,1,1,6,1,4,1,0,1,0
-3/29/2023,Etown,Match,Tyler G,1,0,0,0,0,60,1,1,6,1,2,0,0.65,0.35,2
-3/29/2023,Etown,Match,Tyler G,1,0,0,0,0,58,1,1,5,0,3,1,0.7,0.55,1
-3/29/2023,Etown,Match,Tyler G,1,0,0,0,0,47,2,1,6,0,1,1,0.45,0.3,3
-3/29/2023,Etown,Match,Tyler G,0,0,1,0,1,61,3,1,NA,NA,0,0,1,0,FALSE
-3/29/2023,Etown,Match,Tyler G,1,0,0,0,0,52,1,1,1,0,2,0,0.65,0.35,2
-3/29/2023,Etown,Match,Tyler G,1,0,0,0,0,56,1,1,5,0,2,1,0.65,0.35,2
-3/29/2023,Etown,Match,Tyler G,1,0,0,0,0,59,2,1,6,1,2,1,0.65,0.35,2
-3/29/2023,Etown,Match,Tyler G,1,0,0,0,0,59,3,1,6,0,3,0,0.7,0.55,1
-4/8/2023,Elmira,Match,Tyler G,1,0,0,0,0,43,1,1,1,0,2,0,0.65,0.35,2
-4/8/2023,Elmira,Match,Tyler G,1,0,0,0,0,48,1,1,6,1,2,0,0.65,0.35,2
-4/8/2023,Elmira,Match,Tyler G,1,0,0,0,0,59,1,1,5,1,1,0,0.45,0.3,3
-4/8/2023,Elmira,Match,Tyler G,1,0,0,0,0,47,1,1,6,1,2,1,0.65,0.35,2
-4/8/2023,Elmira,Match,Tyler G,1,0,0,0,0,59,2,1,6,0,2,0,0.65,0.35,2
-4/8/2023,Elmira,Match,Tyler G,1,0,0,0,0,59,1,1,6,0,1,0,0.45,0.3,3
-4/8/2023,Elmira,Match,Tyler G,1,0,0,0,0,57,1,1,6,1,2,1,0.65,0.35,2
-4/8/2023,Elmira,Match,Tyler G,1,0,0,0,0,49,2,1,5,1,2,0,0.65,0.35,2
-4/8/2023,Elmira,Match,Tyler G,1,0,0,0,0,54,1,1,5,0,3,0,0.7,0.55,1
-4/8/2023,Elmira,Match,Tyler G,1,0,0,0,0,51,1,1,1,1,1,1,0.45,0.3,3
-4/8/2023,Elmira,Match,Tyler G,1,0,0,0,0,50,2,1,1,0,3,1,0.7,0.55,1
-4/8/2023,Elmira,Match,Tyler G,1,0,0,0,0,59,3,1,6,0,3,1,0.7,0.55,1
-4/8/2023,Elmira,Match,Tyler G,1,0,0,0,0,62,4,1,5,1,2,0,0.65,0.35,2
-4/8/2023,Elmira,Match,Tyler G,1,0,0,0,0,58,1,1,5,1,2,1,0.65,0.35,2
-4/8/2023,Elmira,Match,Tyler G,1,0,0,0,0,66,2,1,6,1,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Tyler G,1,0,0,0,0,51,1,1,6,0,2,1,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Tyler G,1,0,0,0,0,53,2,1,6,0,2,1,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Tyler G,1,0,0,0,0,58,3,1,6,1,3,1,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Tyler G,1,1,0,0,0,56,4,1,1,1,4,1,0,1,0
-10/27/2023,Blue/Gold,Scrimmage,Tyler G,1,0,0,0,0,62,1,1,6,1,3,0,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Tyler G,1,0,0,0,0,55,1,1,6,0,3,0,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Tyler G,0,0,1,0,1,50,1,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Tyler G,1,0,0,0,0,48,1,1,6,0,3,0,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Tyler G,1,0,0,0,0,54,1,1,1,0,2,1,0.65,0.35,2
-10/25/2022,Juniata,Practice,Tyler P,1,0,0,0,0,49,,1,,1,1,0,0.7,0.55,3
-10/25/2022,Juniata,Practice,Tyler P,0,0,1,0,1,49,,1,,NA,0,0,FALSE,0,FALSE
-10/25/2022,Juniata,Practice,Tyler P,1,0,0,0,0,50,,1,,0,2,1,0.55,0.45,2
-10/25/2022,Juniata,Practice,Tyler P,1,0,0,0,0,50,,1,,1,1,1,0.7,0.55,3
-10/25/2022,Juniata,Practice,Tyler P,0,0,1,0,1,48,,1,,NA,0,0,FALSE,0,FALSE
-10/27/2022,Juniata,Practice,Tyler P,0,0,1,0,1,51,,1,,NA,0,0,FALSE,0,FALSE
-10/27/2022,Juniata,Practice,Tyler P,1,0,0,0,0,52,,1,,1,2,1,0.55,0.45,2
-10/27/2022,Juniata,Practice,Tyler P,1,0,0,0,0,56,,1,,1,1,0,0.7,0.55,3
-10/27/2022,Juniata,Practice,Tyler P,1,0,0,0,0,60,,1,,1,2,0,0.55,0.45,2
-10/27/2022,Juniata,Practice,Tyler P,0,0,0,1,1,48,,1,,NA,0,0,FALSE,0,FALSE
-10/28/2022,Blue/Gold,Scrimmage,Tyler P,1,1,0,0,0,59,,1,,1,4,1,0,1,0
-10/28/2022,Blue/Gold,Scrimmage,Tyler P,1,0,0,0,0,58,,1,,1,3,0,0.45,0.3,1
-10/28/2022,Blue/Gold,Scrimmage,Tyler P,1,0,0,0,0,56,,1,,1,3,1,0.45,0.3,1
-10/28/2022,Blue/Gold,Scrimmage,Tyler P,0,0,0,1,1,61,,1,,NA,0,0,FALSE,0,FALSE
-10/28/2022,Blue/Gold,Scrimmage,Tyler P,1,0,0,0,0,60,,1,,0,3,0,0.45,0.3,1
-10/28/2022,Blue/Gold,Scrimmage,Tyler P,0,0,1,0,1,54,,1,,NA,0,0,FALSE,0,FALSE
-10/28/2022,Blue/Gold,Scrimmage,Tyler P,0,0,0,1,1,49,,1,,NA,0,0,FALSE,0,FALSE
-10/28/2022,Blue/Gold,Scrimmage,Tyler P,1,0,0,0,0,63,,1,,1,2,1,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Tyler P,0,0,1,0,1,58,,1,,NA,0,0,FALSE,0,FALSE
-10/28/2022,Blue/Gold,Scrimmage,Tyler P,1,1,0,0,0,52,,1,,1,4,1,0,1,0
-10/28/2022,Blue/Gold,Scrimmage,Tyler P,0,0,1,0,1,51,,1,,NA,0,0,FALSE,0,FALSE
-11/3/2022,Juniata,Practice,Tyler P,0,0,1,0,1,45,,1,,NA,0,0,FALSE,0,FALSE
-11/3/2022,Juniata,Practice,Tyler P,0,0,1,0,1,46,,1,,NA,0,0,FALSE,0,FALSE
-11/3/2022,Juniata,Practice,Tyler P,1,0,0,0,0,45,,1,,1,2,1,0.55,0.45,2
-11/3/2022,Juniata,Practice,Tyler P,0,0,0,1,1,42,,1,,NA,0,0,FALSE,0,FALSE
-11/6/2022,Mason,Scrimmage,Tyler P,0,0,1,0,1,46,,1,,NA,0,0,FALSE,0,FALSE
-11/6/2022,Mason,Scrimmage,Tyler P,1,0,0,0,0,45,,1,,1,2,0,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Tyler P,1,0,0,0,0,45,,1,,1,2,1,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Tyler P,0,0,1,0,1,52,,1,,NA,0,0,FALSE,0,FALSE
-11/6/2022,Mason,Scrimmage,Tyler P,0,0,1,0,1,54,,1,,NA,0,1,FALSE,0,FALSE
-11/6/2022,Mason,Scrimmage,Tyler P,0,0,1,0,1,51,,1,,NA,0,0,FALSE,0,FALSE
-11/6/2022,Mason,Scrimmage,Tyler P,0,0,1,0,1,40,,1,,NA,0,0,FALSE,0,FALSE
-11/6/2022,Daemen,Scrimmage,Tyler P,1,0,0,0,0,49,,1,,0,1,0,0.7,0.55,3
-11/6/2022,Daemen,Scrimmage,Tyler P,1,0,0,0,0,56,,1,,1,3,1,0.45,0.3,1
-11/6/2022,Daemen,Scrimmage,Tyler P,1,0,0,0,0,57,,1,,1,2,1,0.55,0.45,2
-11/6/2022,Daemen,Scrimmage,Tyler P,0,0,1,0,1,50,,1,,NA,0,0,FALSE,0,FALSE
-11/6/2022,Daemen,Scrimmage,Tyler P,1,0,0,0,0,50,,1,,1,1,1,0.7,0.55,3
-11/6/2022,Daemen,Scrimmage,Tyler P,1,0,0,0,0,52,,1,,1,3,0,0.45,0.3,1
-11/6/2022,Daemen,Scrimmage,Tyler P,1,0,0,0,0,45,,1,,1,1,1,0.7,0.55,3
-11/6/2022,Daemen,Scrimmage,Tyler P,1,0,0,0,0,49,,1,,1,3,0,0.45,0.3,1
-1/15/2023,Mount,Scrimmage,Tyler P,1,0,0,0,0,44,,1,,1,3,1,0.7,0.55,1
-1/15/2023,Mount,Scrimmage,Tyler P,0,0,0,1,1,48,,1,,NA,0,0,1,0,FALSE
-1/15/2023,Mount,Scrimmage,Tyler P,1,0,0,0,0,48,,1,,1,1,1,0.7,0.3,3
-1/15/2023,Mount,Scrimmage,Tyler P,1,0,0,0,0,52,,1,,1,1,0,0.45,0.3,3
-1/15/2023,Mount,Scrimmage,Tyler P,1,0,0,0,0,49,,1,,1,1,1,0.45,0.3,3
-1/15/2023,Mount,Scrimmage,Tyler P,1,0,0,0,0,50,,1,,1,2,1,0.65,0.35,2
-1/15/2023,Mount,Scrimmage,Tyler P,1,1,0,0,0,42,,1,,1,4,1,0,1,0
-1/15/2023,Mount,Scrimmage,Tyler P,0,0,0,1,1,46,,1,,NA,0,0,1,0,FALSE
-2/3/2023,Geneva,Match,Tyler P,1,0,0,0,0,42,1,1,5,1,2,1,0.65,0.35,2
-2/3/2023,Geneva,Match,Tyler P,0,0,1,0,1,50,2,1,NA,NA,0,0,1,0,FALSE
-2/3/2023,Geneva,Match,Tyler P,1,0,0,0,1,38,1,1,NA,NA,0,0,1,0,FALSE
-2/3/2023,Geneva,Match,Tyler P,0,0,0,1,1,44,4,1,NA,NA,0,0,1,0,FALSE
-2/3/2023,Geneva,Match,Tyler P,0,0,0,1,1,44,1,1,NA,NA,0,0,1,0,FALSE
-2/3/2023,Geneva,Match,Tyler P,1,0,0,0,0,45,1,1,6,1,2,0,0.65,0.35,2
-2/3/2023,Geneva,Match,Tyler P,0,0,1,0,1,48,1,1,NA,NA,0,0,1,0,FALSE
-2/17/2023,PSUA,Match,Tyler P,1,0,0,0,0,40,1,1,5,1,1,1,0.45,0.3,3
-2/17/2023,PSUA,Match,Tyler P,0,0,0,1,1,52,2,1,NA,NA,0,0,1,0,FALSE
-2/17/2023,PSUA,Match,Tyler P,1,0,0,0,0,47,1,1,1,0,2,0,0.65,0.35,2
-2/17/2023,PSUA,Match,Tyler P,1,1,0,0,0,55,1,1,6,1,4,1,0,1,0
-2/17/2023,PSUA,Match,Tyler P,1,0,0,0,0,55,1,1,1,0,1,0,0.45,0.3,3
-4/8/2023,Drew,Match,Tyler P,0,0,1,0,1,48,1,1,NA,NA,0,0,1,0,FALSE
-4/8/2023,Drew,Match,Tyler P,0,0,1,0,1,38,1,1,NA,NA,0,0,1,0,FALSE
-4/8/2023,Drew,Match,Tyler P,1,0,0,0,0,44,1,1,6,0,1,0,0.45,0.3,3
-10/25/2022,Juniata,Practice,Campbell,1,0,0,0,0,40,,1,,1,3,1,0.45,0.55,1
-10/25/2022,Juniata,Practice,Campbell,1,0,0,0,0,39,,1,,1,2,1,0.55,0.45,2
-10/25/2022,Juniata,Practice,Campbell,1,0,0,0,0,39,,1,,1,2,0,0.55,0.45,2
-10/25/2022,Juniata,Practice,Campbell,1,0,0,0,0,38,,1,,0,1,0,0.7,0.3,3
-10/25/2022,Juniata,Practice,Campbell,1,0,0,0,0,37,,1,,1,2,0,0.55,0.45,2
-10/27/2022,Juniata,Practice,Campbell,1,0,0,0,0,38,,1,,0,1,0,0.7,0.3,3
-10/27/2022,Juniata,Practice,Campbell,1,0,0,0,0,36,,1,,1,1,0,0.7,0.3,3
-10/27/2022,Juniata,Practice,Campbell,1,0,0,0,0,35,,1,,1,3,1,0.45,0.55,1
-10/27/2022,Juniata,Practice,Campbell,1,0,0,0,0,34,,1,,1,3,1,0.45,0.55,1
-10/27/2022,Juniata,Practice,Campbell,1,0,0,0,0,36,,1,,1,2,0,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Campbell,1,0,0,0,0,36,,1,,1,1,0,0.7,0.3,3
-10/28/2022,Blue/Gold,Scrimmage,Campbell,0,0,0,1,1,40,,1,,FALSE,4,1,0,1,0
-10/28/2022,Blue/Gold,Scrimmage,Campbell,1,0,0,0,0,36,,1,,1,2,1,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Campbell,1,0,0,0,0,37,,1,,1,3,1,0.45,0.55,1
-10/28/2022,Blue/Gold,Scrimmage,Campbell,1,0,0,0,0,35,,1,,1,1,0,0.7,0.3,3
-10/28/2022,Blue/Gold,Scrimmage,Campbell,1,0,0,0,0,38,,1,,1,2,0,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Campbell,1,0,0,0,0,37,,1,,1,1,1,0.7,0.3,3
-10/28/2022,Blue/Gold,Scrimmage,Campbell,1,0,0,0,0,38,,1,,1,1,1,0.7,0.3,3
-10/28/2022,Blue/Gold,Scrimmage,Campbell,1,0,0,0,0,36,,1,,0,2,0,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Campbell,0,0,1,0,1,41,,1,,FALSE,0,0,FALSE,0,FALSE
-10/28/2022,Blue/Gold,Scrimmage,Campbell,1,0,0,0,0,37,,1,,0,1,1,0.7,0.3,3
-10/28/2022,Blue/Gold,Scrimmage,Campbell,1,0,0,0,0,40,,1,,0,2,1,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Campbell,1,0,0,0,0,40,,1,,0,1,1,0.7,0.3,3
-10/28/2022,Blue/Gold,Scrimmage,Campbell,1,0,0,0,0,40,,1,,1,3,1,0.45,0.55,1
-10/28/2022,Blue/Gold,Scrimmage,Campbell,1,1,0,0,0,41,,1,,1,FALSE,FALSE,FALSE,FALSE,FALSE
-10/28/2022,Blue/Gold,Scrimmage,Campbell,1,0,0,0,0,39,,1,,1,2,1,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Campbell,1,0,0,0,0,40,,1,,1,3,1,0.45,0.55,1
-10/28/2022,Blue/Gold,Scrimmage,Campbell,1,0,0,0,0,37,,1,,0,1,0,0.7,0.3,3
-11/3/2022,Juniata,Practice,Campbell,1,1,0,0,0,32,,1,,1,FALSE,FALSE,FALSE,FALSE,FALSE
-11/3/2022,Juniata,Practice,Campbell,1,0,0,0,0,37,,1,,1,3,0,0.45,0.55,1
-11/3/2022,Juniata,Practice,Campbell,1,0,0,0,0,43,,1,,1,1,0,0.7,0.3,3
-11/3/2022,Juniata,Practice,Campbell,1,0,0,0,0,37,,1,,1,2,0,0.55,0.45,2
-11/3/2022,Juniata,Practice,Campbell,0,0,0,1,1,34,,1,,FALSE,4,1,0,1,0
-11/3/2022,Juniata,Practice,Campbell,1,0,0,0,0,37,,1,,1,3,0,0.45,0.55,1
-11/3/2022,Juniata,Practice,Campbell,1,0,0,0,0,37,,1,,0,3,1,0.45,0.55,1
-11/6/2022,Mason,Scrimmage,Campbell,1,0,0,0,0,34,,1,,1,3,1,0.45,0.55,1
-11/6/2022,Mason,Scrimmage,Campbell,1,0,0,0,0,35,,1,,1,2,0,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Campbell,1,1,0,0,0,33,,1,,1,4,1,0,1,0
-11/6/2022,Mason,Scrimmage,Campbell,1,0,0,0,0,34,,1,,1,2,1,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Campbell,1,0,0,0,0,32,,1,,0,2,0,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Campbell,1,0,0,0,0,33,,1,,1,2,1,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Campbell,1,0,0,0,0,34,,1,,1,3,1,0.45,0.55,1
-11/6/2022,Mason,Scrimmage,Campbell,1,0,0,0,0,32,,1,,1,2,0,0.55,0.45,2
-11/6/2022,Mason,Scrimmage,Campbell,1,0,0,0,0,36,,1,,0,1,0,0.7,0.3,3
-11/6/2022,Mason,Scrimmage,Campbell,1,0,0,0,0,35,,1,,1,1,0,0.7,0.3,3
-11/6/2022,Mason,Scrimmage,Campbell,1,0,0,0,0,37,,1,,0,2,1,0.55,0.45,2
-11/6/2022,Daemen,Scrimmage,Campbell,1,0,0,0,0,33,,1,,1,3,1,0.45,0.55,1
-11/6/2022,Daemen,Scrimmage,Campbell,1,0,0,0,0,32,,1,,1,2,1,0.55,0.45,2
-11/6/2022,Daemen,Scrimmage,Campbell,1,0,0,0,0,32,,1,,1,1,0,0.7,0.3,3
-11/6/2022,Daemen,Scrimmage,Campbell,1,0,0,0,0,34,,1,,0,1,0,0.7,0.3,3
-11/6/2022,Daemen,Scrimmage,Campbell,1,0,0,0,0,34,,1,,1,1,0,0.7,0.3,3
-11/6/2022,Daemen,Scrimmage,Campbell,1,0,0,0,0,35,,1,,1,1,1,0.7,0.3,3
-11/6/2022,Daemen,Scrimmage,Campbell,1,0,0,0,0,31,,1,,1,2,1,0.55,0.45,2
-11/6/2022,Daemen,Scrimmage,Campbell,1,0,0,0,0,35,,1,,0,1,0,0.7,0.3,3
-11/6/2022,Daemen,Scrimmage,Campbell,1,0,0,0,0,33,,1,,1,1,0,0.7,0.3,3
-11/6/2022,Daemen,Scrimmage,Campbell,1,0,0,0,0,33,,1,,0,1,0,0.7,0.3,3
-11/6/2022,Daemen,Scrimmage,Campbell,1,0,0,0,0,53,,1,,1,2,1,0.55,0.45,2
-11/6/2022,Daemen,Scrimmage,Campbell,0,0,1,0,1,53,,1,,FALSE,0,0,FALSE,0,FALSE
-1/13/2023,Merrimack,Scrimmage,Campbell,1,0,0,0,0,36,,1,,0,2,1,0.65,0.35,2
-1/13/2023,Merrimack,Scrimmage,Campbell,1,0,0,0,0,38,,1,,0,2,0,0.65,0.35,2
-1/13/2023,Merrimack,Scrimmage,Campbell,1,0,0,0,0,36,,1,,2,1,0,0.45,0.3,3
-1/15/2023,Mount,Scrimmage,Campbell,0,0,1,0,1,35,,1,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-1/15/2023,Mount,Scrimmage,Campbell,1,0,0,0,0,32,,1,,1,1,0,0.45,0.3,3
-1/15/2023,Mount,Scrimmage,Campbell,0,0,0,1,1,36,,1,,FALSE,4,1,0,1,FALSE
-1/15/2023,Mount,Scrimmage,Campbell,1,0,0,0,0,32,,1,,0,3,1,0.7,0.55,1
-1/15/2023,Mount,Scrimmage,Campbell,1,1,0,0,0,36,,1,,1,FALSE,FALSE,FALSE,FALSE,0
-1/15/2023,Mount,Scrimmage,Campbell,1,0,0,0,0,34,,1,,1,2,1,0.65,0.35,2
-1/15/2023,Mount,Scrimmage,Campbell,0,0,0,1,1,47,,1,,FALSE,4,1,0,1,FALSE
-2/3/2023,Geneva,Match,Campbell,1,0,0,0,0,37,1,1,6,1,3,1,0.7,0.55,1
-2/3/2023,Geneva,Match,Campbell,1,0,0,0,0,31,2,1,6,0,2,1,0.65,0.35,2
-2/3/2023,Geneva,Match,Campbell,1,0,0,0,0,38,3,1,5,1,2,1,0.65,0.35,2
-2/3/2023,Geneva,Match,Campbell,1,1,0,0,0,39,4,1,1,1,4,1,0,1,0
-2/3/2023,Geneva,Match,Campbell,1,0,0,0,0,40,5,1,6,1,3,1,0.7,0.55,1
-2/3/2023,Geneva,Match,Campbell,1,0,0,0,0,36,6,1,6,0,1,0,0.7,0.3,3
-2/3/2023,Geneva,Match,Campbell,1,0,0,0,0,38,1,1,5,1,2,1,0.65,0.35,2
-2/3/2023,Geneva,Match,Campbell,1,0,0,0,0,37,2,1,1,1,2,0,0.65,0.35,2
-2/3/2023,Geneva,Match,Campbell,1,0,0,0,0,40,1,1,1,1,1,1,0.45,0.3,3
-2/3/2023,Geneva,Match,Campbell,1,0,0,0,0,36,2,1,5,1,2,1,0.65,0.35,2
-2/3/2023,Geneva,Match,Campbell,1,0,0,0,0,37,3,1,5,1,2,1,0.65,0.35,2
-2/3/2023,Geneva,Match,Campbell,0,0,1,0,1,37,4,1,NA,NA,0,0,1,0,FALSE
-2/3/2023,Geneva,Match,Campbell,1,0,0,0,0,37,1,1,6,0,1,0,0.45,0.3,3
-2/3/2023,Geneva,Match,Campbell,1,0,0,0,0,34,1,1,5,0,2,1,0.65,0.35,2
-2/3/2023,Geneva,Match,Campbell,1,0,0,0,0,38,2,1,5,1,3,0,0.7,0.55,1
-2/3/2023,Geneva,Match,Campbell,1,0,0,0,0,37,1,1,5,0,2,0,0.65,0.35,2
-2/3/2023,Geneva,Match,Campbell,1,0,0,0,0,37,1,1,6,1,1,1,0.45,0.3,3
-2/3/2023,Geneva,Match,Campbell,0,0,0,1,1,36,2,1,NA,NA,0,0,1,0,FALSE
-2/3/2023,SJF,Match,Campbell,1,0,0,0,0,34,1,1,6,1,1,0,0.45,0.3,3
-2/3/2023,SJF,Match,Campbell,1,0,0,0,0,37,1,1,6,0,1,0,0.45,0.3,3
-2/3/2023,SJF,Match,Campbell,1,0,0,0,0,35,1,1,5,1,2,FALSE,0.65,0.35,2
-2/17/2023,PSUA,Match,Campbell,0,0,0,1,1,36,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,ETown,Match,Campbell,1,0,0,0,0,32,1,1,6,1,2,0,0.65,0.35,2
-2/18/2023,ETown,Match,Campbell,1,0,0,0,0,33,1,1,6,0,1,1,0.45,0.3,3
-2/18/2023,ETown,Match,Campbell,1,0,0,0,0,36,2,1,6,0,1,0,0.45,0.3,3
-2/18/2023,ETown,Match,Campbell,1,0,0,0,0,33,1,1,5,1,1,0,0.45,0.3,3
-2/18/2023,ETown,Match,Campbell,0,0,0,1,1,36,1,1,NA,NA,0,0,1,0,FALSE
-2/18/2023,ETown,Match,Campbell,1,0,0,0,0,33,1,1,5,1,2,0,0.65,0.35,2
-3/3/2023,Roanoke,Match,Campbell,1,0,0,0,0,36,1,1,5,0,1,1,0.45,0.3,3
-3/3/2023,Roanoke,Match,Campbell,1,0,0,0,0,37,2,1,6,1,1,0,0.45,0.3,3
-3/3/2023,Roanoke,Match,Campbell,1,1,0,0,0,34,1,1,4,1,4,1,0,1,0
-3/3/2023,Roanoke,Match,Campbell,1,0,0,0,0,37,1,1,5,1,1,1,0.45,0.3,3
-3/3/2023,Roanoke,Match,Campbell,0,0,1,0,1,55,2,1,NA,NA,0,0,1,0,FALSE
-3/3/2023,Roanoke,Match,Campbell,1,0,0,0,0,34,1,1,5,1,3,0,0.7,0.55,1
-3/3/2023,Roanoke,Match,Campbell,1,0,0,0,0,39,1,1,6,1,1,1,0.45,0.3,3
-3/3/2023,Roanoke,Match,Campbell,1,0,0,0,0,37,2,1,5,0,2,0,0.65,0.35,2
-3/3/2023,Roanoke,Match,Campbell,1,0,0,0,0,37,1,1,5,0,2,1,0.65,0.35,2
-3/3/2023,Roanoke,Match,Campbell,1,0,0,0,0,37,2,1,5,1,1,0,0.45,0.3,3
-3/3/2023,Roanoke,Match,Campbell,1,0,0,0,0,38,1,1,5,0,1,1,0.45,0.3,3
-3/3/2023,Roanoke,Match,Campbell,1,0,0,0,0,36,2,1,6,1,1,1,0.45,0.3,3
-3/3/2023,Roanoke,Match,Campbell,1,0,0,0,0,34,1,1,6,0,1,0,0.45,0.3,3
-3/4/2023,Arcadia,Match,Campbell,1,0,0,0,0,38,1,1,6,0,2,0,0.65,0.35,2
-3/4/2023,Arcadia,Match,Campbell,1,0,0,0,0,35,1,1,6,1,1,0,0.45,0.3,3
-3/4/2023,Arcadia,Match,Campbell,1,0,0,0,0,35,1,1,5,0,2,1,0.65,0.35,2
-3/4/2023,Arcadia,Match,Campbell,1,0,0,0,0,38,2,1,5,0,3,1,0.7,0.55,1
-3/4/2023,Arcadia,Match,Campbell,1,0,0,0,0,36,3,1,6,1,1,1,0.45,0.3,3
-3/4/2023,Arcadia,Match,Campbell,1,0,0,0,0,40,1,1,6,1,3,1,0.7,0.55,1
-3/4/2023,Arcadia,Match,Campbell,1,0,0,0,0,38,2,1,5,0,1,1,0.45,0.3,3
-3/4/2023,Arcadia,Match,Campbell,1,0,0,0,0,37,3,1,5,0,1,1,0.45,0.3,3
-3/4/2023,Arcadia,Match,Campbell,1,0,0,0,0,38,1,1,5,1,1,0,0.45,0.3,3
-3/4/2023,Arcadia,Match,Campbell,1,0,0,0,0,39,1,1,6,0,1,1,0.45,0.3,3
-3/4/2023,Arcadia,Match,Campbell,1,0,0,0,0,37,2,1,5,1,2,1,0.65,0.35,2
-3/4/2023,Arcadia,Match,Campbell,1,0,0,0,0,38,1,1,6,1,1,0,0.45,0.3,3
-3/4/2023,Arcadia,Match,Campbell,1,0,0,0,0,37,1,1,6,1,1,1,0.45,0.3,3
-3/4/2023,Arcadia,Match,Campbell,0,0,1,0,1,36,2,1,NA,NA,0,0,1,0,FALSE
-3/4/2023,Arcadia,Match,Campbell,1,0,0,0,0,37,1,1,6,0,2,1,0.65,0.35,2
-3/29/2023,Etown,Match,Campbell,1,0,0,0,0,36,1,1,6,1,3,1,0.7,0.55,1
-3/29/2023,Etown,Match,Campbell,1,0,0,0,0,37,2,1,6,0,1,1,0.45,0.3,3
-3/29/2023,Etown,Match,Campbell,1,0,0,0,0,36,3,1,6,1,2,0,0.65,0.35,2
-3/29/2023,Etown,Match,Campbell,0,0,1,0,1,35,1,1,NA,NA,0,0,1,0,FALSE
-3/29/2023,Etown,Match,Campbell,1,0,0,0,0,37,1,1,1,0,1,0,0.45,0.3,3
-3/29/2023,Etown,Match,Campbell,1,0,0,0,0,37,1,1,5,1,2,0,0.65,0.35,2
-3/29/2023,Etown,Match,Campbell,1,0,0,0,0,35,1,1,6,0,1,0,0.45,0.3,3
-3/29/2023,Etown,Match,Campbell,1,0,0,0,0,34,1,1,6,0,3,0,0.7,0.55,1
-4/8/2023,Elmira,Match,Campbell,1,0,0,0,0,36,1,1,6,1,1,0,0.45,0.3,3
-4/8/2023,Elmira,Match,Campbell,1,0,0,0,0,33,1,1,5,0,1,0,0.45,0.3,3
-4/8/2023,Elmira,Match,Campbell,1,1,0,0,0,35,1,1,6,1,4,1,0,1,0
-4/8/2023,Elmira,Match,Campbell,1,0,0,0,0,35,1,1,6,1,3,0,0.7,0.55,1
-4/8/2023,Elmira,Match,Campbell,1,0,0,0,0,36,1,1,5,1,1,0,0.45,0.3,3
-4/8/2023,Elmira,Match,Campbell,1,0,0,0,0,33,1,1,5,0,2,0,0.65,0.35,2
-10/27/2022,Juniata,Practice,Drew P,1,0,0,0,0,34,,,,1,1,0,0.7,0.3,3
-10/27/2022,Juniata,Practice,Drew P,1,0,0,0,0,37,,,,1,1,1,0.7,0.3,3
-10/27/2022,Juniata,Practice,Drew P,1,0,0,0,0,26,,,,1,2,1,0.55,0.45,2
-10/27/2022,Juniata,Practice,Drew P,0,0,0,1,1,40,,,,NA,0,0,FALSE,0,FALSE
-10/28/2022,Blue/Gold,Scrimmage,Drew P,1,0,0,0,0,27,,,,1,2,1,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Drew P,0,0,1,0,1,40,,,,NA,0,0,FALSE,0,FALSE
-10/28/2022,Blue/Gold,Scrimmage,Drew P,1,0,0,0,0,34,,,,0,2,0,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Drew P,1,0,0,0,0,34,,,,0,2,0,0.55,0.45,2
-11/6/2022,Daemen,Scrimmage,Drew P,0,0,1,0,1,29,,,,NA,0,0,FALSE,0,FALSE
-11/6/2022,Daemen,Scrimmage,Drew P,1,0,0,0,0,31,,,,1,2,1,0.55,0.45,2
-11/6/2022,Daemen,Scrimmage,Drew P,1,0,0,0,0,32,,,,1,2,1,0.55,0.45,2
-11/6/2022,Daemen,Scrimmage,Drew P,1,0,0,0,0,33,,,,1,3,0,0.45,0.55,1
-11/6/2022,Daemen,Scrimmage,Drew P,1,0,0,0,0,31,,,,1,1,0,0.7,0.3,3
-11/6/2022,Daemen,Scrimmage,Drew P,1,0,0,0,0,32,,,,1,2,0,0.55,0.45,2
-11/6/2022,Daemen,Scrimmage,Drew P,1,0,0,0,0,34,,,,1,2,0,0.55,0.45,2
-4/8/2023,Elmira,Match,Drew P,1,0,0,0,0,32,1,5,5,0,1,0,0.45,0.3,3
-10/28/2022,Blue/Gold,Scrimmage,Jeremiah,1,0,0,0,0,38,,,,1,2,0,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Jeremiah,1,0,0,0,0,36,,,,0,2,0,0.55,0.45,2
-11/3/2022,Juniata,Practice,Jeremiah,1,0,0,0,0,37,,,,1,3,1,0.45,0.55,1
-11/3/2022,Juniata,Practice,Jeremiah,1,0,0,0,0,38,,,,1,2,0,0.55,0.45,2
-11/3/2022,Juniata,Practice,Jeremiah,1,0,0,0,0,38,,,,0,2,1,0.55,0.45,2
-11/3/2022,Juniata,Practice,Jeremiah,1,0,0,0,0,38,,,,1,1,0,0.7,0.3,3
-11/3/2022,Juniata,Practice,Jeremiah,1,0,0,0,0,37,,,,1,3,1,0.45,0.55,1
-10/25/2022,Juniata,Practice,Logan,1,0,0,0,0,34,,,,0,2,0,0.55,0.45,2
-10/25/2022,Juniata,Practice,Logan,1,0,0,0,0,34,,,,0,2,1,0.55,0.45,2
-10/25/2022,Juniata,Practice,Logan,1,0,0,0,0,32,,,,0,2,1,0.55,0.45,2
-10/25/2022,Juniata,Practice,Logan,1,0,0,0,0,34,,,,1,2,1,0.55,0.45,2
-10/25/2022,Juniata,Practice,Logan,1,0,0,0,0,35,,,,0,1,0,0.7,0.3,3
-10/27/2022,Juniata,Practice,Logan,1,0,0,0,0,32,,,,1,2,1,0.55,0.45,2
-10/27/2022,Juniata,Practice,Logan,1,0,0,0,0,26,,,,1,2,0,0.55,0.45,2
-10/27/2022,Juniata,Practice,Logan,1,0,0,0,0,35,,,,1,1,0,0.7,0.3,3
-10/27/2022,Juniata,Practice,Logan,1,0,0,0,0,30,,,,0,1,0,0.7,0.3,3
-10/27/2022,Juniata,Practice,Logan,1,0,0,0,0,31,,,,0,1,1,0.7,0.3,3
-10/27/2022,Juniata,Practice,Logan,1,0,0,0,0,38,,,,0,2,0,0.55,0.45,2
-10/27/2022,Juniata,Practice,Logan,1,0,0,0,0,34,,,,1,3,1,0.45,0.55,1
-10/27/2022,Juniata,Practice,Logan,1,0,0,0,0,34,,,,0,1,1,0.7,0.3,3
-10/27/2022,Juniata,Practice,Logan,1,0,0,0,0,34,,,,1,2,1,0.55,0.45,2
-10/27/2022,Juniata,Practice,Logan,1,0,0,0,0,31,,,,1,3,1,0.45,0.55,1
-10/28/2022,Blue/Gold,Scrimmage,Logan,1,1,0,0,0,37,,,,1,4,1,0,1,0
-10/28/2022,Blue/Gold,Scrimmage,Logan,1,1,0,0,0,28,,,,1,4,1,0,1,0
-10/28/2022,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,28,,,,0,1,0,0.7,0.3,3
-10/28/2022,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,31,,,,1,1,0,0.7,0.3,3
-10/28/2022,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,31,,,,1,2,1,0.55,0.45,2
-10/28/2022,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,32,,,,0,1,1,0.7,0.3,3
-10/28/2022,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,34,,,,1,2,0,0.55,0.45,2
-11/3/2022,Juniata,Practice,Logan,1,0,0,0,0,33,,,,1,2,0,0.55,0.45,2
-1/15/2023,Mount,Scrimmage,Logan,1,0,0,0,0,32,,,,0,1,1,0.45,0.3,3
-1/15/2023,Mount,Scrimmage,Logan,0,0,0,1,1,31,,,,NA,0,0,1,0,FALSE
-1/15/2023,Mount,Scrimmage,Logan,1,0,0,0,0,32,,,,0,3,1,0.7,0.55,1
-1/15/2023,Mount,Scrimmage,Logan,1,0,0,0,0,33,,,,1,3,1,0.7,0.55,1
-1/15/2023,Mount,Scrimmage,Logan,1,0,0,0,0,33,,,,0,1,0,0.45,0.3,3
-1/15/2023,Mount,Scrimmage,Logan,1,0,0,0,0,31,,,,0,2,1,0.65,0.35,2
-1/15/2023,Mount,Scrimmage,Logan,0,0,0,1,1,33,,,,NA,0,0,1,0,FALSE
-1/15/2023,Mount,Scrimmage,Logan,1,0,0,0,0,34,,,,0,1,1,0.45,0.3,3
-1/15/2023,Mount,Scrimmage,Logan,0,0,0,1,1,32,,,,NA,0,0,1,0,FALSE
-1/15/2023,Mount,Scrimmage,Logan,0,0,0,1,1,33,,,,NA,0,0,1,0,FALSE
-2/17/2023,PSUA,Match,Logan,1,0,0,0,0,31,1,,,1,6,1,1,0,0.45
-2/17/2023,PSUA,Match,Logan,1,0,0,0,0,30,1,,,6,5,0,2,0,0.65
-2/17/2023,PSUA,Match,Logan,1,1,0,0,0,33,1,,,6,5,0,4,1,0
-2/17/2023,PSUA,Match,Logan,1,0,0,0,0,37,2,,,6,6,0,2,0,0.65
-2/17/2023,PSUA,Match,Logan,1,0,0,0,0,37,1,,,6,5,1,1,1,0.45
-2/17/2023,PSUA,Match,Logan,1,0,0,0,0,35,2,,,6,6,0,2,0,0.65
-4/8/2023,Drew,Match,Logan,1,1,0,0,0,36,1,,,1,6,1,4,1,0
-4/8/2023,Drew,Match,Logan,1,0,0,0,0,35,1,,,1,6,1,1,0,0.45
-4/8/2023,Drew,Match,Logan,1,0,0,0,0,31,1,,,6,5,1,1,0,0.45
-4/8/2023,Drew,Match,Logan,0,0,1,0,1,33,1,,,6,NA,NA,0,0,1
-10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,30,1,,,1,6,0,1,1,0.45
-10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,34,2,,,1,6,0,2,0,0.65
-10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,35,1,,,1,6,1,1,0,0.45
-10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,33,2,,,1,5,1,1,0,0.45
-10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,35,1,,,6,5,1,2,1,0.65
-10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,33,2,,,6,5,1,2,0,0.65
-10/27/2023,Blue/Gold,Scrimmage,Logan,0,0,1,0,1,32,1,,,6,NA,NA,0,0,1
-11/6/2022,Mason,Scrimmage,Peter,1,0,0,0,0,29,1,,,1,1,0,0.7,0.3,3
-11/6/2022,Mason,Scrimmage,Peter,1,0,0,0,0,33,1,,,1,2,0,0.55,0.45,2
-4/8/2023,Elmira,Match,Peter,1,0,0,0,0,33,1,1,5,0,2,1,0.65,0.35,2
-4/8/2023,Elmira,Match,Peter,1,0,0,0,0,34,2,1,6,0,2,1,0.65,0.35,2
-4/8/2023,Elmira,Match,Peter,1,0,0,0,0,35,3,1,5,1,3,1,0.7,0.55,1
-4/8/2023,Elmira,Match,Peter,1,0,0,0,0,37,4,1,5,1,2,1,0.65,0.35,2
-4/8/2023,Elmira,Match,Peter,0,0,0,1,1,36,5,1,NA,NA,0,0,1,0,FALSE
-4/8/2023,Elmira,Match,Peter,1,0,0,0,0,33,1,1,5,1,2,0,0.65,0.35,2
-4/8/2023,Elmira,Match,Peter,1,0,0,0,0,33,1,1,5,0,1,1,0.45,0.3,3
-4/8/2023,Elmira,Match,Peter,1,0,0,0,0,35,2,1,5,0,2,1,0.65,0.35,2
-4/8/2023,Elmira,Match,Peter,1,0,0,0,0,38,3,1,6,1,2,0,0.65,0.35,2
-4/8/2023,Elmira,Match,Peter,1,0,0,0,0,36,1,1,6,0,2,1,0.65,0.35,2
-10/25/2022,Juniata,Practice,Grant,1,0,0,0,0,38,,,,1,2,1,0.55,0.45,2
-10/25/2022,Juniata,Practice,Grant,1,0,0,0,0,39,,,,1,3,1,0.45,0.55,1
-10/25/2022,Juniata,Practice,Grant,1,0,0,0,0,35,,,,0,1,0,0.7,0.3,3
-10/25/2022,Juniata,Practice,Grant,1,0,0,0,0,36,,,,1,3,1,0.45,0.55,1
-10/25/2022,Juniata,Practice,Grant,0,0,1,0,1,33,,,,NA,0,0,FALSE,0,FALSE
-10/25/2022,Juniata,Practice,Grant,1,0,0,0,0,35,,,,0,1,1,0.7,0.3,3
-10/27/2022,Juniata,Practice,Grant,1,0,0,0,0,36,,,,1,2,0,0.55,0.45,2
-10/27/2022,Juniata,Practice,Grant,1,0,0,0,0,41,,,,1,3,1,0.45,0.55,1
-10/27/2022,Juniata,Practice,Grant,0,0,0,1,1,37,,,,FALSE,4,1,0,1,0
-10/27/2022,Juniata,Practice,Grant,1,0,0,0,0,35,,,,0,1,1,0.7,0.3,3
-10/27/2022,Juniata,Practice,Grant,1,0,0,0,0,38,,,,1,2,0,0.55,0.45,2
-10/27/2022,Juniata,Practice,Grant,1,0,0,0,0,40,,,,1,3,1,0.45,0.55,1
-10/27/2022,Juniata,Practice,Grant,1,0,0,0,0,38,,,,1,1,1,0.7,0.3,3
-10/27/2022,Juniata,Practice,Grant,1,0,0,0,0,37,,,,1,2,1,0.55,0.45,2
-10/27/2022,Juniata,Practice,Grant,1,0,0,0,0,39,,,,0,1,1,0.7,0.3,3
-10/27/2022,Juniata,Practice,Grant,0,0,0,1,1,42,,,,FALSE,4,1,0,1,0
-10/27/2022,Juniata,Practice,Grant,0,0,1,0,1,37,,,,FALSE,0,0,FALSE,0,FALSE
-10/27/2022,Juniata,Practice,Grant,1,0,0,0,0,40,,,,0,3,1,0.45,0.55,1
-10/27/2022,Juniata,Practice,Grant,1,0,0,0,0,,,,,0,2,0,0.55,0.45,2
-10/27/2022,Juniata,Practice,Grant,1,0,0,0,0,33,,,,1,3,0,0.45,0.55,1
-10/27/2022,Juniata,Practice,Grant,1,0,0,0,0,37,,,,1,1,1,0.7,0.3,3
-10/27/2022,Juniata,Practice,Grant,1,1,0,0,0,37,,,,1,FALSE,FALSE,FALSE,FALSE,FALSE
-10/27/2022,Juniata,Practice,Grant,1,0,0,0,0,39,,,,1,1,1,0.7,0.3,3
-10/27/2022,Juniata,Practice,Grant,0,0,0,1,1,37,,,,FALSE,4,1,0,1,0
-10/28/2022,Blue/Gold,Scrimmage,Grant,1,0,0,0,0,39,,,,1,1,0,0.7,0.3,3
-11/6/2022,Daemen,Scrimmage,Grant,1,0,0,0,0,32,,,,1,3,1,0.45,0.55,1
-11/6/2022,Daemen,Scrimmage,Grant,1,0,0,0,0,35,,,,1,2,1,0.55,0.45,2
-11/6/2022,Daemen,Scrimmage,Grant,1,0,0,0,0,36,,,,0,3,1,0.45,0.55,1
-11/6/2022,Daemen,Scrimmage,Grant,0,0,0,1,1,39,,,,FALSE,0,0,FALSE,0,FALSE
-11/6/2022,Daemen,Scrimmage,Grant,1,0,0,0,0,32,,,,0,2,1,0.55,0.45,2
-11/6/2022,Daemen,Scrimmage,Grant,1,0,0,0,0,33,,,,0,1,0,0.7,0.3,3
-11/6/2022,Daemen,Scrimmage,Grant,1,0,0,0,0,31,,,,1,1,1,0.7,0.3,3
-11/6/2022,Daemen,Scrimmage,Grant,1,0,0,0,0,37,,,,0,1,1,0.7,0.3,3
-11/6/2022,Daemen,Scrimmage,Grant,0,0,1,0,1,36,,,,FALSE,0,0,FALSE,0,FALSE
-1/15/2023,Mount,Scrimmage,Grant,1,0,0,0,0,37,,,,0,2,1,0.65,0.35,2
-1/15/2023,Mount,Scrimmage,Grant,1,0,0,0,0,36,,,,1,1,1,0.45,0.3,3
-1/15/2023,Mount,Scrimmage,Grant,0,0,0,1,1,40,,,,FALSE,4,1,0,1,FALSE
-1/15/2023,Mount,Scrimmage,Grant,1,0,0,0,0,38,,,,0,3,1,0.7,0.55,1
-1/15/2023,Mount,Scrimmage,Grant,1,1,0,0,0,38,,,,0,FALSE,FALSE,FALSE,FALSE,0
-1/15/2023,Mount,Scrimmage,Grant,0,0,1,0,1,36,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-1/15/2023,Mount,Scrimmage,Grant,1,0,0,0,0,35,,,,1,3,1,0.7,0.55,1
-1/15/2023,Mount,Scrimmage,Grant,1,0,0,0,0,37,,,,0,2,0,0.65,0.35,2
-1/15/2023,Mount,Scrimmage,Grant,0,0,0,1,1,34,,,,FALSE,4,1,0,1,FALSE
-1/15/2023,Mount,Scrimmage,Grant,1,0,0,0,0,34,,,,0,1,1,0.45,0.3,3
-1/15/2023,Mount,Scrimmage,Grant,1,0,0,0,0,38,,,,1,1,1,0.45,0.3,3
-1/15/2023,Mount,Scrimmage,Grant,1,1,0,0,0,35,,,,1,FALSE,FALSE,FALSE,FALSE,0
-1/15/2023,Mount,Scrimmage,Grant,1,0,0,0,0,37,,,,0,3,1,0.7,0.55,1
-1/15/2023,Mount,Scrimmage,Grant,1,1,0,0,0,39,,,,1,FALSE,FALSE,FALSE,FALSE,0
-1/15/2023,Mount,Scrimmage,Grant,1,0,0,0,0,38,,,,1,1,1,0.45,0.3,3
-1/15/2023,Mount,Scrimmage,Grant,1,0,0,0,0,38,,,,1,2,0,0.65,0.35,2
-2/3/2023,Geneva,Match,Grant,1,0,0,0,0,35,1,1,5,2,2,0,0.65,0.35,2
-2/3/2023,Geneva,Match,Grant,1,1,0,0,0,37,1,1,5,1,4,1,0,1,0
-2/3/2023,Geneva,Match,Grant,1,0,0,0,0,37,2,1,6,0,2,0,0.65,0.35,2
-2/3/2023,Geneva,Match,Grant,1,1,0,0,0,38,1,1,6,1,4,1,0,1,0
-2/3/2023,Geneva,Match,Grant,1,0,0,0,0,36,2,1,6,0,2,1,0.65,0.35,2
-2/3/2023,Geneva,Match,Grant,0,0,0,1,1,37,3,1,NA,NA,0,0,1,0,FALSE
-2/17/2023,PSUA,Match,Grant,1,0,0,0,0,36,1,1,6,1,1,1,0.45,0.3,3
-2/17/2023,PSUA,Match,Grant,1,1,0,0,0,35,2,1,5,1,4,1,0,1,0
-2/17/2023,PSUA,Match,Grant,1,0,0,0,0,35,3,1,1,o,2,1,0.65,0.35,2
-2/17/2023,PSUA,Match,Grant,1,0,0,0,0,37,4,1,6,1,3,1,0.7,0.55,1
-2/17/2023,PSUA,Match,Grant,1,0,0,0,0,38,5,1,5,0,2,1,0.65,0.35,2
-2/17/2023,PSUA,Match,Grant,1,0,0,0,0,39,6,1,5,1,2,1,0.65,0.35,2
-2/17/2023,PSUA,Match,Grant,1,0,0,0,0,38,7,1,5,0,1,0,0.45,0.3,3
-2/17/2023,PSUA,Match,Grant,0,0,1,0,1,37,1,1,NA,NA,0,0,1,0,FALSE
-2/17/2023,PSUA,Match,Grant,1,0,0,0,0,38,1,1,5,1,3,1,0.7,0.55,1
-2/17/2023,PSUA,Match,Grant,1,0,0,0,0,34,2,1,5,0,3,1,0.7,0.55,1
-2/17/2023,PSUA,Match,Grant,1,0,0,0,0,36,3,1,5,0,1,0,0.45,0.3,3
-2/17/2023,PSUA,Match,Grant,1,0,0,0,0,38,1,1,6,0,1,1,0.45,0.3,3
-2/17/2023,PSUA,Match,Grant,1,0,0,0,0,38,2,1,3,0,1,0,0.45,0.3,3
-2/17/2023,PSUA,Match,Grant,1,1,0,0,0,36,1,1,5,1,4,1,0,1,0
-2/17/2023,PSUA,Match,Grant,0,0,1,0,1,34,2,1,NA,NA,0,0,1,0,FALSE
-4/8/2023,Drew,Match,Grant,1,1,0,0,0,41,1,1,6,0,4,1,0,1,0
-4/8/2023,Drew,Match,Grant,1,0,0,0,0,37,1,1,1,1,2,1,0.65,0.35,2
-4/8/2023,Drew,Match,Grant,1,0,0,0,0,42,2,1,1,1,2,1,0.65,0.35,2
-4/8/2023,Drew,Match,Grant,1,0,0,0,0,42,3,1,6,0,2,0,0.65,0.35,2
-4/8/2023,Drew,Match,Grant,1,0,0,0,0,37,1,1,5,0,2,1,0.65,0.35,2
-4/8/2023,Drew,Match,Grant,1,0,0,0,0,38,2,1,6,1,3,1,0.7,0.55,1
-4/8/2023,Drew,Match,Grant,1,0,0,0,0,37,3,1,6,1,1,1,0.45,0.3,3
-4/8/2023,Drew,Match,Grant,0,0,0,1,1,38,4,1,NA,NA,0,0,1,0,FALSE
-4/8/2023,Drew,Match,Grant,0,0,0,1,1,37,1,1,NA,NA,0,0,1,0,FALSE
-4/8/2023,Drew,Match,Grant,1,0,0,0,0,,1,1,5,1,1,FALSE,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Grant,1,0,0,0,0,37,1,1,1,1,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Grant,1,0,0,0,0,36,1,1,6,1,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Grant,1,0,0,0,0,31,1,1,1,0,2,1,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Grant,1,0,0,0,0,37,2,1,6,0,1,0,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Grant,1,0,0,0,0,38,1,1,6,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Grant,1,0,0,0,0,36,1,1,1,0,1,0,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Juan,1,0,0,0,0,55,1,1,1,1,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Juan,0,0,1,0,1,52,1,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Juan,1,0,0,0,0,46,1,1,1,0,1,1,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Juan,1,0,0,0,0,47,2,1,5,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Juan,1,0,0,0,0,51,1,1,6,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Juan,1,0,0,0,0,53,1,1,1,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Juan,1,0,0,0,0,54,1,1,1,1,3,1,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Juan,1,0,0,0,0,58,2,1,6,0,1,0,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Juan,1,0,0,0,0,46,1,1,6,1,2,1,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Juan,1,0,0,0,0,55,2,1,6,0,3,1,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Juan,0,0,1,0,1,54,3,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Juan,0,0,1,0,1,48,1,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Max,0,0,1,0,1,46,1,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Max,1,0,0,0,0,51,1,1,1,1,2,1,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Max,1,0,0,0,0,42,2,1,5,1,3,1,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Max,0,0,1,0,1,53,3,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Max,1,0,0,0,0,37,1,1,1,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Max,0,0,1,0,1,46,1,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Max,0,0,1,0,1,53,1,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Gavin,1,0,0,0,0,44,1,1,6,0,2,1,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Gavin,1,0,0,0,0,44,1,1,1,1,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Gavin,1,0,0,0,0,47,1,1,6,1,3,0,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Gavin,0,0,0,1,1,44,1,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Chase,1,0,0,0,0,47,1,1,1,0,1,1,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Chase,0,0,0,1,1,52,2,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Chase,1,0,0,0,0,48,1,1,5,1,2,1,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Chase,1,0,0,0,0,49,2,1,5,0,1,1,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Chase,1,0,0,0,0,60,3,1,6,0,1,1,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Chase,1,0,0,0,0,52,4,1,6,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Chase,1,0,0,0,0,52,1,1,6,0,2,1,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Chase,0,0,0,1,1,60,2,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Chase,1,0,0,0,0,47,1,1,6,1,3,0,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Chase,1,0,0,0,0,49,1,1,6,1,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Chase,1,0,0,0,0,44,1,1,5,1,3,0,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Chase,0,0,1,0,1,36,1,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Chase,1,0,0,0,0,43,1,1,5,0,3,1,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Chase,0,0,0,1,1,51,2,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Nate,1,0,0,0,0,49,1,1,1,0,1,0,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Nate,0,0,0,1,1,47,1,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Nate,1,0,0,0,0,55,1,1,1,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Nate,1,0,0,0,0,48,1,1,6,1,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Nate,1,0,0,0,0,52,1,1,5,1,2,1,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Nate,0,0,0,1,1,48,2,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Nate,0,0,1,0,1,44,1,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Nate,1,0,0,0,0,42,1,1,6,0,1,1,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Ethan,1,0,0,0,0,34,1,6,6,0,2,1,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Ethan,1,0,0,0,0,33,2,6,6,0,1,1,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Ethan,1,0,0,0,0,30,3,6,6,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Ethan,0,0,0,1,1,33,1,6,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Ethan,1,0,0,0,0,35,1,6,6,0,1,0,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Chris,1,0,0,0,0,51,1,1,6,1,1,0,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Chris,1,0,0,0,0,54,1,1,5,0,1,0,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Chris,1,0,0,0,0,51,1,1,5,0,3,1,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Chris,1,0,0,0,0,57,2,1,6,1,1,0,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Chris,0,0,0,1,1,52,1,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Octavian,1,0,0,0,0,46,1,1,1,0,1,0,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Octavian,1,0,0,0,0,44,1,1,6,1,1,1,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Octavian,1,0,0,0,0,48,2,1,5,1,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Octavian,1,0,0,0,0,42,1,1,5,1,3,0,0.7,0.55,1
-10/27/2023,Blue/Gold,Scrimmage,Octavian,1,0,0,0,0,40,1,1,5,1,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Octavian,1,0,0,0,0,41,1,1,6,0,1,1,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Octavian,1,0,0,0,0,47,2,1,6,1,1,0,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Octavian,1,0,0,0,0,38,1,1,1,0,1,1,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Octavian,1,0,0,0,0,43,2,1,6,0,1,1,0.45,0.3,3
-10/27/2023,Blue/Gold,Scrimmage,Octavian,1,0,0,0,0,50,3,1,6,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Will,1,0,0,0,0,43,1,1,1,0,2,1,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Will,0,0,1,0,1,49,2,1,NA,NA,0,0,1,0,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Will,1,0,0,0,0,41,1,1,1,1,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Will,1,0,0,0,0,46,1,1,1,0,2,0,0.65,0.35,2
-10/27/2023,Blue/Gold,Scrimmage,Will,0,0,0,1,1,43,1,1,NA,NA,0,0,1,0,FALSE
+1/16/2024,Juniata,Practice,Jared,1,0,0,0,0,40,1,1,6,1,2,1,0.65,0.35,2
+1/16/2024,Juniata,Practice,Jared,1,0,0,0,0,42,2,1,6,0,1,0,0.45,0.3,3
+1/16/2024,Juniata,Practice,Tyler P,1,0,0,0,0,42,1,1,6,1,2,1,0.65,0.35,2
+1/16/2024,Juniata,Practice,Tyler P,1,0,0,0,0,47,2,1,6,1,2,0,0.65,0.35,2
+1/16/2024,Juniata,Practice,Luke,1,0,0,0,0,45,1,1,5,0,3,0,0.7,0.55,1
+1/16/2024,Juniata,Practice,Nate,1,0,0,0,0,44,1,1,6,1,2,0,0.65,0.35,2
+1/16/2024,Juniata,Practice,Drew,1,1,0,0,0,34,1,6,4,1,4,1,0,1,0
+1/16/2024,Juniata,Practice,Drew,1,0,0,0,0,33,1,6,6,0,2,0,0.65,0.35,2
+1/16/2024,Juniata,Practice,Chase,1,0,0,0,0,46,1,1,6,0,3,1,0.7,0.55,1
+1/16/2024,Juniata,Practice,Chase,1,0,0,0,0,47,2,1,5,0,1,0,0.45,0.3,3
+1/16/2024,Juniata,Practice,Chris,1,0,0,0,0,46,1,1,5,1,2,1,0.65,0.35,2
+1/16/2024,Juniata,Practice,Chris,1,0,0,0,0,52,2,1,6,0,3,1,0.7,0.55,1
+1/16/2024,Juniata,Practice,Chris,0,0,0,1,1,51,3,1,NA,NA,0,0,1,0,FALSE
+1/16/2024,Juniata,Practice,Max,1,0,0,0,0,42,1,1,5,1,2,0,0.65,0.35,2
+1/16/2024,Juniata,Practice,Will,1,0,0,0,0,53,1,1,6,0,1,0,0.45,0.3,3
+1/16/2024,Juniata,Practice,Jared,1,0,0,0,0,44,1,1,5,0,3,1,0.7,0.55,1
+1/16/2024,Juniata,Practice,Tyler P,1,1,0,0,0,44,1,1,6,1,4,1,0,1,0
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1/16/2024,Juniata,Practice,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
