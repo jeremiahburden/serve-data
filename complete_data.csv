@@ -160,7 +160,7 @@ Date,Opponent,Match Type,Server,In,Ace,Error (net or wide),Error (long),Any Erro
 10/25/2022,Juniata,Practice,Luke,1,0,0,0,0,44,,1,2,0,2,1,0.65,0.35,2
 10/25/2022,Juniata,Practice,Luke,1,0,0,0,0,58,,1,2,1,2,0,0.65,0.35,2
 10/27/2022,Juniata,Practice,Luke,1,0,0,0,0,38,,1,1,0,1,0,0.7,0.3,3
-10/27/2022,Juniata,Practice,Luke,0,0,0,1,1,57,,1,0,NA,4,1,0,1,0
+10/27/2022,Juniata,Practice,Luke,0,0,0,1,1,57,,1,NA,NA,4,1,0,1,0
 10/27/2022,Juniata,Practice,Luke,1,0,0,0,0,42,,1,1,1,1,0,0.7,0.3,3
 10/27/2022,Juniata,Practice,Luke,1,0,0,0,0,48,,1,1,1,1,0,0.7,0.3,3
 10/27/2022,Juniata,Practice,Luke,1,0,0,0,0,53,,1,1,0,1,0,0.7,0.3,3
@@ -779,7 +779,7 @@ Date,Opponent,Match Type,Server,In,Ace,Error (net or wide),Error (long),Any Erro
 11/6/2022,Daemen,Scrimmage,Campbell,0,0,1,0,1,53,,1,,FALSE,0,0,1,0,FALSE
 1/13/2023,Merrimack,Scrimmage,Campbell,1,0,0,0,0,36,,1,,0,2,1,0.65,0.35,2
 1/13/2023,Merrimack,Scrimmage,Campbell,1,0,0,0,0,38,,1,,0,2,0,0.65,0.35,2
-1/13/2023,Merrimack,Scrimmage,Campbell,1,0,0,0,0,36,,1,,2,1,0,0.7,0.3,3
+1/13/2023,Merrimack,Scrimmage,Campbell,1,0,0,0,0,36,,1,,1,1,0,0.7,0.3,3
 1/15/2023,Mount Aloysius,Scrimmage,Campbell,0,0,1,0,1,35,,1,,FALSE,FALSE,1,FALSE,FALSE,FALSE
 1/15/2023,Mount Aloysius,Scrimmage,Campbell,1,0,0,0,0,32,,1,,1,1,0,0.7,0.3,3
 1/15/2023,Mount Aloysius,Scrimmage,Campbell,0,0,0,1,1,36,,1,,FALSE,4,1,0,1,0
@@ -913,25 +913,25 @@ Date,Opponent,Match Type,Server,In,Ace,Error (net or wide),Error (long),Any Erro
 1/15/2023,Mount Aloysius,Scrimmage,Logan,1,0,0,0,0,34,,,,0,1,1,0.7,0.3,3
 1/15/2023,Mount Aloysius,Scrimmage,Logan,0,0,0,1,1,32,,,,NA,0,0,1,0,FALSE
 1/15/2023,Mount Aloysius,Scrimmage,Logan,0,0,0,1,1,33,,,,NA,0,0,1,0,FALSE
-2/17/2023,PSUA,Match,Logan,1,0,0,0,0,31,1,,,1,6,1,FALSE,FALSE,FALSE
-2/17/2023,PSUA,Match,Logan,1,0,0,0,0,30,1,,,6,5,0,FALSE,FALSE,FALSE
-2/17/2023,PSUA,Match,Logan,1,1,0,0,0,33,1,,,6,5,0,FALSE,FALSE,FALSE
-2/17/2023,PSUA,Match,Logan,1,0,0,0,0,37,2,,,6,6,0,FALSE,FALSE,FALSE
-2/17/2023,PSUA,Match,Logan,1,0,0,0,0,37,1,,,6,5,1,FALSE,FALSE,FALSE
-2/17/2023,PSUA,Match,Logan,1,0,0,0,0,35,2,,,6,6,0,FALSE,FALSE,FALSE
-4/8/2023,Drew,Match,Logan,1,1,0,0,0,36,1,,,1,6,1,FALSE,FALSE,FALSE
-4/8/2023,Drew,Match,Logan,1,0,0,0,0,35,1,,,1,6,1,FALSE,FALSE,FALSE
-4/8/2023,Drew,Match,Logan,1,0,0,0,0,31,1,,,6,5,1,FALSE,FALSE,FALSE
-4/8/2023,Drew,Match,Logan,0,0,1,0,1,33,1,,,6,NA,NA,FALSE,FALSE,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,30,1,,,1,6,0,FALSE,FALSE,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,34,2,,,1,6,0,FALSE,FALSE,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,35,1,,,1,6,1,FALSE,FALSE,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,33,2,,,1,5,1,FALSE,FALSE,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,35,1,,,6,5,1,FALSE,FALSE,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,33,2,,,6,5,1,FALSE,FALSE,FALSE
-10/27/2023,Blue/Gold,Scrimmage,Logan,0,0,1,0,1,32,1,,,6,NA,NA,FALSE,FALSE,FALSE
-11/6/2022,Mason,Scrimmage,Peter,1,0,0,0,0,29,1,,,1,1,0,0.7,0.3,3
-11/6/2022,Mason,Scrimmage,Peter,1,0,0,0,0,33,1,,,1,2,0,0.65,0.35,2
+2/17/2023,PSUA,Match,Logan,1,0,0,0,0,31,1,6,,1,3,1,0.45,0.55,1
+2/17/2023,PSUA,Match,Logan,1,0,0,0,0,30,1,6,,0,2,0,0.65,0.35,2
+2/17/2023,PSUA,Match,Logan,1,1,0,0,0,33,1,6,,0,2,0,0.65,0.35,2
+2/17/2023,PSUA,Match,Logan,1,0,0,0,0,37,2,6,,0,3,0,0.45,0.55,1
+2/17/2023,PSUA,Match,Logan,1,0,0,0,0,37,1,6,,0,2,1,0.65,0.35,2
+2/17/2023,PSUA,Match,Logan,1,0,0,0,0,35,2,6,,0,1,0,0.7,0.3,3
+4/8/2023,Drew,Match,Logan,1,1,0,0,0,36,1,6,,1,1,1,0.7,0.3,3
+4/8/2023,Drew,Match,Logan,1,0,0,0,0,35,1,6,,1,1,1,0.7,0.3,3
+4/8/2023,Drew,Match,Logan,1,0,0,0,0,31,1,6,,0,1,1,0.7,0.3,3
+4/8/2023,Drew,Match,Logan,0,0,1,0,1,33,1,6,,0,0,0,1,0,FALSE
+10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,30,1,6,,1,2,0,0.65,0.35,2
+10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,34,2,6,,1,3,0,0.45,0.55,1
+10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,35,1,6,,1,2,1,0.65,0.35,2
+10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,33,2,6,,1,1,1,0.7,0.3,3
+10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,35,1,6,,0,2,1,0.65,0.35,2
+10/27/2023,Blue/Gold,Scrimmage,Logan,1,0,0,0,0,33,2,6,,0,2,1,0.65,0.35,2
+10/27/2023,Blue/Gold,Scrimmage,Logan,0,0,1,0,1,32,1,6,,0,0,0,1,0,FALSE
+11/6/2022,Mason,Scrimmage,Peter,1,0,0,0,0,29,1,6,,1,3,0,0.45,0.55,1
+11/6/2022,Mason,Scrimmage,Peter,1,0,0,0,0,33,1,6,,1,1,0,0.7,0.3,3
 4/8/2023,Elmira,Match,Peter,1,0,0,0,0,33,1,1,5,0,2,1,0.65,0.35,2
 4/8/2023,Elmira,Match,Peter,1,0,0,0,0,34,2,1,6,0,2,1,0.65,0.35,2
 4/8/2023,Elmira,Match,Peter,1,0,0,0,0,35,3,1,5,1,3,1,0.45,0.55,1
