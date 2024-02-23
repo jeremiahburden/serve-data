@@ -335,7 +335,7 @@ Date,Opponent,Match Type,Server,In,Ace,Error (net or wide),Error (long),Any Erro
 10/27/2022,Juniata,Practice,Reese,1,0,0,0,0,32,,,2,1,2,1,0.65,0.35,2
 10/27/2022,Juniata,Practice,Reese,1,0,0,0,0,33,,,1,0,1,0,0.7,0.3,3
 10/27/2022,Juniata,Practice,Reese,1,0,0,0,0,36,,,2,1,2,1,0.65,0.35,2
-10/27/2022,Juniata,Practice,Reese,0,0,1,0,1,36,,NA,0,FALSE,0,0,1,0,FALSE
+10/27/2022,Juniata,Practice,Reese,0,0,1,0,1,36,,NA,0,0,0,0,1,0,FALSE
 10/27/2022,Juniata,Practice,Reese,1,0,0,0,0,35,,,1,0,1,1,0.7,0.3,3
 10/27/2022,Juniata,Practice,Reese,1,0,0,0,0,33,,,1,1,1,0,0.7,0.3,3
 10/27/2022,Juniata,Practice,Reese,1,0,0,0,0,30,,,1,0,1,0,0.7,0.3,3
