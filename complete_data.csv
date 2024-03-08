@@ -128,7 +128,7 @@ Date,Opponent,Match Type,Server,In,Ace,Error (net or wide),Error (long),Any Erro
 10/27/2022,Juniata,Practice,Jared,1,0,0,0,0,33,,,,0,1,1,0.7,0.3,3
 10/27/2022,Juniata,Practice,Jared,1,0,0,0,0,38,,,,1,2,1,0.65,0.35,2
 10/27/2022,Juniata,Practice,Jared,1,0,0,0,0,42,,,,0,1,0,0.7,0.3,3
-10/27/2022,Juniata,Practice,Jared,0,0,1,0,1,36,,,,NA,0,1,1,0,FALSE
+10/27/2022,Juniata,Practice,Jared,0,0,1,0,1,36,,,,NA,0,0,1,0,FALSE
 10/27/2022,Juniata,Practice,Jared,1,0,0,0,0,34,,,,1,1,0,0.7,0.3,3
 10/27/2022,Juniata,Practice,Jared,0,0,0,1,1,35,,,,NA,0,0,1,0,FALSE
 10/27/2022,Juniata,Practice,Jared,1,0,0,0,0,36,,,,1,2,0,0.65,0.35,2
@@ -685,7 +685,7 @@ Date,Opponent,Match Type,Server,In,Ace,Error (net or wide),Error (long),Any Erro
 11/6/2022,Mason,Scrimmage,Tyler P,1,0,0,0,0,45,,1,,1,2,0,0.65,0.35,2
 11/6/2022,Mason,Scrimmage,Tyler P,1,0,0,0,0,45,,1,,1,2,1,0.65,0.35,2
 11/6/2022,Mason,Scrimmage,Tyler P,0,0,1,0,1,52,,1,,NA,0,0,1,0,FALSE
-11/6/2022,Mason,Scrimmage,Tyler P,0,0,1,0,1,54,,1,,NA,0,1,1,0,FALSE
+11/6/2022,Mason,Scrimmage,Tyler P,0,0,1,0,1,54,,1,,NA,0,0,1,0,FALSE
 11/6/2022,Mason,Scrimmage,Tyler P,0,0,1,0,1,51,,1,,NA,0,0,1,0,FALSE
 11/6/2022,Mason,Scrimmage,Tyler P,0,0,1,0,1,40,,1,,NA,0,0,1,0,FALSE
 11/6/2022,Daemen,Scrimmage,Tyler P,1,0,0,0,0,49,,1,,0,1,0,0.7,0.3,3
@@ -1713,7 +1713,7 @@ Date,Opponent,Match Type,Server,In,Ace,Error (net or wide),Error (long),Any Erro
 2/20/2024,Juniata,Practice,Tyler P,1,0,0,0,0,58,1,1,1,0,3,1,0.45,0.55,1
 2/20/2024,Juniata,Practice,Tyler P,1,0,0,0,0,58,2,1,1,1,3,1,0.45,0.55,1
 2/20/2024,Juniata,Practice,Tyler P,1,0,0,0,0,58,3,1,6,0,2,0,0.65,0.35,2
-2/20/2024,Juniata,Practice,Tyler P,0,0,0,1,1,57,1,1,NA,NA,0,1,1,0,FALSE
+2/20/2024,Juniata,Practice,Tyler P,0,0,0,1,1,57,1,1,NA,NA,0,0,1,0,FALSE
 2/20/2024,Juniata,Practice,Tyler P,1,0,0,0,0,59,2,1,1,0,2,1,0.65,0.35,2
 2/20/2024,Juniata,Practice,Tyler P,0,0,1,0,1,55,3,1,NA,NA,0,0,1,0,FALSE
 2/20/2024,Juniata,Practice,Tyler P,0,0,1,0,1,54,1,1,NA,NA,0,0,1,0,FALSE
@@ -1966,105 +1966,105 @@ Date,Opponent,Match Type,Server,In,Ace,Error (net or wide),Error (long),Any Erro
 2/21/2024,Juniata,Practice,Drew,1,0,0,0,0,29,1,5,6,0,1,0,0.7,0.3,3
 2/21/2024,Juniata,Practice,Drew,1,0,0,0,0,32,1,5,6,0,2,1,0.65,0.35,2
 2/21/2024,Juniata,Practice,Drew,1,0,0,0,0,36,2,5,6,0,1,1,0.7,0.3,3
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-2/21/2024,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+3/5/2024,Juniata,Practice,Reese,0,0,1,0,1,43,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Reese,0,0,1,0,1,42,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Reese,1,0,0,0,0,48,1,1,6,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Reese,1,0,0,0,0,51,1,1,6,0,2,0,0.65,0.35,2
+3/5/2024,Juniata,Practice,Will,0,0,0,1,1,46,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Tyler P,1,0,0,0,0,47,1,1,5,0,1,1,0.7,0.3,3
+3/5/2024,Juniata,Practice,Reese,1,0,0,0,0,45,1,1,6,1,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Reese,1,0,0,0,0,49,1,1,1,0,2,0,0.65,0.35,2
+3/5/2024,Juniata,Practice,Reese,1,0,0,0,0,47,1,1,6,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Tyler P,0,0,0,1,1,53,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Octavian,1,0,0,0,0,46,1,1,5,1,1,1,0.7,0.3,3
+3/5/2024,Juniata,Practice,Reese,0,0,1,0,1,54,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Reese,1,0,0,0,0,47,1,1,5,0,2,0,0.65,0.35,2
+3/5/2024,Juniata,Practice,Reese,1,0,0,0,0,52,1,1,6,0,1,1,0.7,0.3,3
+3/5/2024,Juniata,Practice,Octavian,1,0,0,0,0,51,1,1,5,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Octavian,1,0,0,0,0,49,1,1,6,1,1,1,0.7,0.3,3
+3/5/2024,Juniata,Practice,Octavian,1,0,0,0,0,46,1,1,5,1,2,0,0.65,0.35,2
+3/5/2024,Juniata,Practice,Reese,1,0,0,0,0,48,1,1,6,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Reese,1,0,0,0,0,54,1,1,1,1,2,0,0.65,0.35,2
+3/5/2024,Juniata,Practice,Reese,1,0,0,0,0,52,1,1,5,1,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Octavian,1,0,0,0,0,46,1,1,6,1,2,0,0.65,0.35,2
+3/5/2024,Juniata,Practice,Juan,0,0,1,0,1,52,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Juan,1,0,0,0,0,46,1,1,6,1,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Juan,0,0,1,0,1,48,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Reese,1,0,0,0,0,48,1,1,1,1,1,1,0.7,0.3,3
+3/5/2024,Juniata,Practice,Juan,1,0,0,0,0,57,1,1,1,0,1,1,0.7,0.3,3
+3/5/2024,Juniata,Practice,Nate,0,0,0,1,1,53,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Nate,1,0,0,0,0,51,1,1,6,1,2,0,0.65,0.35,2
+3/5/2024,Juniata,Practice,Nate,1,0,0,0,0,55,1,1,1,1,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Nate,1,1,0,0,0,56,1,1,1,1,4,1,0,1,0
+3/5/2024,Juniata,Practice,Juan,0,0,0,1,1,54,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Juan,1,0,0,0,0,51,1,1,6,0,1,1,0.7,0.3,3
+3/5/2024,Juniata,Practice,Nate,0,0,1,0,1,55,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Nate,1,0,0,0,0,44,1,1,1,1,2,1,0.65,0.35,2
+3/5/2024,Juniata,Practice,Juan,1,0,0,0,0,56,1,1,6,1,2,1,0.65,0.35,2
+3/5/2024,Juniata,Practice,Juan,1,0,0,0,0,52,2,1,1,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Juan,0,0,1,0,1,49,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Juan,1,0,0,0,0,59,1,1,6,0,2,0,0.65,0.35,2
+3/5/2024,Juniata,Practice,Nate,1,0,0,0,0,48,1,1,6,1,2,0,0.65,0.35,2
+3/5/2024,Juniata,Practice,Tyler G,1,1,0,0,0,62,1,1,6,1,4,1,0,1,0
+3/5/2024,Juniata,Practice,Juan,1,0,0,0,0,51,1,1,5,1,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Juan,1,0,0,0,0,52,1,1,1,1,2,1,0.65,0.35,2
+3/5/2024,Juniata,Practice,Tyler G,1,0,0,0,0,57,1,1,6,1,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Tyler G,0,0,0,1,1,59,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Tyler G,1,0,0,0,0,59,1,1,6,1,2,1,0.65,0.35,2
+3/5/2024,Juniata,Practice,Juan,0,0,1,0,1,59,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Juan,1,0,0,0,0,53,1,1,1,1,3,1,0.45,0.55,1
+3/5/2024,Juniata,Practice,Tyler G,1,1,0,0,0,64,1,1,1,1,4,1,0,1,0
+3/5/2024,Juniata,Practice,Juan,1,0,0,0,0,46,1,1,1,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Tyler G,1,0,0,0,0,64,1,1,6,1,3,0,0.45,0.55,1
+3/5/2024,Juniata,Practice,Juan,1,0,0,0,0,36,1,1,1,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Juan,0,0,0,1,1,53,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Juan,0,0,1,0,1,46,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Juan,0,0,0,1,1,60,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Tyler G,1,0,0,0,0,64,1,1,6,1,3,1,0.45,0.55,1
+3/5/2024,Juniata,Practice,Juan,1,0,0,0,0,46,1,1,5,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Juan,1,0,0,0,0,54,1,1,5,1,2,0,0.65,0.35,2
+3/5/2024,Juniata,Practice,Campbell,1,0,0,0,0,40,1,1,6,0,2,0,0.65,0.35,2
+3/5/2024,Juniata,Practice,Campbell,1,0,0,0,0,37,1,1,5,0,1,1,0.7,0.3,3
+3/5/2024,Juniata,Practice,Juan,0,0,0,1,1,54,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Juan,1,0,0,0,0,55,1,1,5,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Juan,1,0,0,0,0,53,1,1,6,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Juan,0,0,0,1,1,51,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Campbell,0,0,0,1,1,34,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Jeremiah,1,0,0,0,0,35,1,5,1,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Jeremiah,1,0,0,0,0,35,1,5,5,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Juan,0,0,1,0,1,43,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Luke,1,0,0,0,0,46,1,1,1,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Luke,1,0,0,0,0,49,1,1,1,0,2,0,0.65,0.35,2
+3/5/2024,Juniata,Practice,Jeremiah,0,0,0,1,1,32,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Max,1,0,0,0,0,42,1,1,6,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Max,0,0,1,0,1,44,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Max,1,0,0,0,0,42,1,1,5,0,2,0,0.65,0.35,2
+3/5/2024,Juniata,Practice,Luke,0,0,0,1,1,50,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Luke,1,0,0,0,0,52,1,1,5,1,3,1,0.45,0.55,1
+3/5/2024,Juniata,Practice,Max,1,0,0,0,0,43,1,1,6,0,1,1,0.7,0.3,3
+3/5/2024,Juniata,Practice,Luke,1,0,0,0,0,56,1,1,1,0,1,1,0.7,0.3,3
+3/5/2024,Juniata,Practice,Max,1,0,0,0,0,42,1,1,5,1,1,1,0.7,0.3,3
+3/5/2024,Juniata,Practice,Luke,1,0,0,0,0,61,1,1,6,0,2,1,0.65,0.35,2
+3/5/2024,Juniata,Practice,Max,1,0,0,0,0,46,1,1,5,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Max,0,0,0,1,1,51,2,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Max,1,0,0,0,0,35,1,1,5,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Max,1,0,0,0,0,44,1,1,1,1,3,1,0.45,0.55,1
+3/5/2024,Juniata,Practice,Luke,1,0,0,0,0,55,1,1,1,1,2,0,0.65,0.35,2
+3/5/2024,Juniata,Practice,Luke,0,0,0,1,1,52,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Luke,0,0,1,0,1,48,1,1,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Luke,1,0,0,0,0,56,1,1,6,1,2,0,0.65,0.35,2
+3/5/2024,Juniata,Practice,Max,1,0,0,0,0,41,1,1,1,1,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Reese,1,0,0,0,0,48,1,1,6,1,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Reese,1,0,0,0,0,48,1,1,6,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Luke,1,1,0,0,0,54,1,1,5,1,4,1,0,1,0
+3/5/2024,Juniata,Practice,Reese,1,1,0,0,0,50,1,1,1,1,4,1,0,1,0
+3/5/2024,Juniata,Practice,Drew,0,0,1,0,1,36,1,5,NA,NA,0,0,1,0,FALSE
+3/5/2024,Juniata,Practice,Drew,1,0,0,0,0,33,1,5,1,1,2,1,0.65,0.35,2
+3/5/2024,Juniata,Practice,Reese,1,0,0,0,0,46,1,1,1,0,2,1,0.65,0.35,2
+3/5/2024,Juniata,Practice,Drew,1,0,0,0,0,34,1,5,5,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Drew,1,0,0,0,0,26,1,5,1,0,2,0,0.65,0.35,2
+3/5/2024,Juniata,Practice,Drew,1,0,0,0,0,25,1,5,1,0,1,0,0.7,0.3,3
+3/5/2024,Juniata,Practice,Reese,1,0,0,0,0,48,1,1,5,1,2,1,0.65,0.35,2
 ,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 ,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 ,Juniata,Match,,1,0,0,0,0,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
