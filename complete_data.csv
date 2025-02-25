@@ -2798,7 +2798,7 @@ Date,Opponent,Match Type,Server,In,Ace,Error (net or wide),Error (long),Any Erro
 10/24/2024,Juniata,Practice,Max,1,0,0,0,0,53,3,1,6,1,3,1,0.45,0.55,1
 10/24/2024,Juniata,Practice,Max,0,0,0,1,1,54,1,1,NA,NA,0,0,1,0,FALSE
 10/24/2024,Juniata,Practice,Max,0,0,1,0,1,51,1,1,NA,NA,0,0,1,0,FALSE
-10/24/2024,Juniata,Practice,Max,1,1,0,0,0,50,1,1,5,1,4,0,0,1,0
+10/24/2024,Juniata,Practice,Max,1,1,0,0,0,50,1,1,5,1,4,1,1,1,0
 10/24/2024,Juniata,Practice,Max,1,0,0,0,0,56,1,1,6,0,1,1,0.7,0.3,3
 10/24/2024,Juniata,Practice,Max,0,0,1,0,1,44,2,1,NA,NA,0,0,1,0,FALSE
 10/24/2024,Juniata,Practice,David,1,0,0,0,0,46,1,1,5,1,1,0,0.7,0.3,3
@@ -3156,7 +3156,7 @@ Date,Opponent,Match Type,Server,In,Ace,Error (net or wide),Error (long),Any Erro
 11/1/2024,Blue/Gold,Scrimmage,Dante,1,1,0,0,0,56,1,1,6,1,4,1,0,1,0
 11/1/2024,Blue/Gold,Scrimmage,Dante,0,0,0,1,1,60,1,1,NA,NA,0,0,1,0,FALSE
 11/1/2024,Blue/Gold,Scrimmage,Will,1,0,0,0,0,47,1,1,6,1,1,0,0.7,0.3,3
-11/1/2024,Blue/Gold,Scrimmage,Max,1,0,0,0,0,51,1,1,1,1,0,1,1,0,FALSE
+11/1/2024,Blue/Gold,Scrimmage,Max,1,0,0,0,0,51,1,1,1,1,0,0,1,0,FALSE
 11/1/2024,Blue/Gold,Scrimmage,Felix,1,0,0,0,0,47,1,1,6,1,2,1,0.65,0.35,2
 11/1/2024,Blue/Gold,Scrimmage,Gugu,0,0,0,1,1,45,1,1,NA,NA,0,0,1,0,FALSE
 11/1/2024,Blue/Gold,Scrimmage,David,1,0,0,0,0,49,1,1,6,1,1,0,0.7,0.3,3
@@ -3725,7 +3725,7 @@ Date,Opponent,Match Type,Server,In,Ace,Error (net or wide),Error (long),Any Erro
 1/14/2025,Juniata,Practice,Jared,1,0,0,0,0,45,1,1,1,0,1,0,0.7,0.3,3
 1/14/2025,Juniata,Practice,Felix,1,0,0,0,0,43,1,1,1,1,1,0,0.7,0.3,3
 1/14/2025,Juniata,Practice,Drew,1,0,0,0,0,34,1,5,5,0,2,0,0.65,0.35,2
-1/14/2025,Juniata,Practice,Dante,1,0,0,0,0,56,1,1,1,1,0,1,1,0,FALSE
+1/14/2025,Juniata,Practice,Dante,1,0,0,0,0,56,1,1,1,1,0,0,1,0,FALSE
 1/14/2025,Juniata,Practice,Dante,0,0,1,0,1,54,2,1,NA,NA,0,0,1,0,FALSE
 1/14/2025,Juniata,Practice,David,0,0,0,1,1,49,1,1,NA,NA,0,0,1,0,FALSE
 1/14/2025,Juniata,Practice,Gugu,1,0,0,0,0,30,1,1,5,0,1,0,0.7,0.3,3
