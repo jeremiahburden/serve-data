@@ -1,4 +1,4 @@
-Date,Opponent,Practice,Server,In,Ace,Error (net or wide),Error (long),Any Error,Speed (#),Serve Number,Serve Location,Serve Desination,Seam,Serve Rating (1-3),Point Score?,Expected SO %,Expected PS%,Opp. Pass Rating
+Date,Opponent,Match Type,Server,In,Ace,Error (net or wide),Error (long),Any Error,Speed (#),Serve Number,Serve Location,Serve Desination,Seam,Serve Rating (1-3),Point Score?,Expected SO %,Expected PS%,Opp. Pass Rating
 10/25/2022,Juniata,Practice,Tyler G,1,0,0,0,0,57,,1,,1,2,0,0.65,0.35,2
 10/25/2022,Juniata,Practice,Tyler G,0,0,1,0,1,58,,1,,NA,0,0,1,0,FALSE
 10/25/2022,Juniata,Practice,Tyler G,1,0,0,0,0,61,,1,,0,3,1,0.45,0.55,1
